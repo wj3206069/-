@@ -1,17 +1,20 @@
 <template>
   <div>
-    <div class="header">
-      <div class="input">
-        <div class="topSearchIpt">
-          <i class="iconfont icon-sousuokuang"></i>
-          <span class="placeholder">搜索商品, 共19953款好物</span>
+    <div class="headerWrap">
+      <div class="header">
+        <div class="input">
+          <div class="topSearchIpt">
+            <i class="iconfont icon-sousuokuang"></i>
+            <span class="placeholder">搜索商品, 共19953款好物</span>
+          </div>
         </div>
       </div>
     </div>
-    <div class="cateNavVertWrap">
+    <div class="cateNavVertWrap" >
       <div class="navWrap">
         <ul class="cateNav">
-          <li class="item active">fdsaf</li>
+          <li class="item active" v-for="(li,index) shopList" :key="index">
+            {{li.name}}</li>
         </ul>
       </div>
     </div>
@@ -41,53 +44,65 @@
 </template>
 
 <script>
+
+  import {mapState} from 'vuex'
+
   export default {
-    name: "Classify"
+    name: "Classify",
+    mounted(){
+      this.$store.dispatch('getShopList')
+    },
+
+    computed:{
+      ...mapState(['shopList'])
+    }
   }
 </script>
 
 <style scoped lang="stylus">
-  .header
+  .headerWrap
     height: 93px;
-    position: fixed !important;
-    left: 0;
-    top: 0;
-    z-index: 5;
-    width: 100%;
-    .input
-      display: flex;
-      align-items: center;
-      height: 1.17333rem;
-      padding: 0 .4rem;
-      background-color: #fff;
-      position: relative;
-      .topSearchIpt
-        display: flex;
-        flex-flow: row nowrap;
-        justify-content: center;
-        height: .74667rem;
-        font-size: .37333rem;
-        background-color: #ededed;
-        border-radius: .10667rem;
-        width: 100%;
-        i
-          display: inline-block;
-          vertical-align: middle;
-          font-size .42333rem;
-          margin-right: .13333rem;
-          line-height .80667rem
-        .placeholder
-          color: #666;
-          line-height .74667rem
-    &::after
-      content: '';
-      position: absolute;
-      background-color: #d9d9d9;
+    .header
+      height: 93px;
+      position: fixed !important;
       left: 0;
+      top: 0;
+      z-index: 5;
       width: 100%;
-      height: 1px;
-      transform-origin: 50% 100% 0;
-      bottom: 0;
+      .input
+        display: flex;
+        align-items: center;
+        height: 1.17333rem;
+        padding: 0 .4rem;
+        background-color: #fff;
+        position: relative;
+        .topSearchIpt
+          display: flex;
+          flex-flow: row nowrap;
+          justify-content: center;
+          height: .74667rem;
+          font-size: .37333rem;
+          background-color: #ededed;
+          border-radius: .10667rem;
+          width: 100%;
+          i
+            display: inline-block;
+            vertical-align: middle;
+            font-size .42333rem;
+            margin-right: .13333rem;
+            line-height .80667rem
+          .placeholder
+            color: #666;
+            line-height .74667rem
+      &::after
+        content: '';
+        position: absolute;
+        background-color: #d9d9d9;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        transform-origin: 50% 100% 0;
+        bottom: 0;
   .cateNavVertWrap
     position: fixed;
     left: 0;
