@@ -13,27 +13,28 @@
     <div class="cateNavVertWrap" >
       <div class="navWrap">
         <ul class="cateNav">
-          <li class="item active" v-for="(li,index) shopList" :key="index">
+          <li v-if="shopList" class="item" v-for="(li,i) in shopList" :key="i"
+              @click="switcherSort(i)" :class="{active: index === i}">
             {{li.name}}</li>
         </ul>
       </div>
     </div>
     <div class="subCateList">
         <div class="banner">
-          <div class="banner-bg">
-            <img src="./imgs/mei.jpg" alt="">
+          <div class="banner-bg" v-if="shopList[0]">
+            <img :src="shopList[index].wapBannerUrl" alt="">
           </div>
         </div>
-      <div class="cateList">
-        <div class="hd">箱包</div>
-        <ul class="list">
-          <li class="cateItem">
+      <div class="cateList" >
+        <div class="hd"></div>
+        <ul class="list" v-if="shopList[index]">
+          <li  class="cateItem"  v-for="(stor,i) in shopList[index].subCateList" :key="i">
             <div>
               <div class="cateImgWrapper">
-                <img src="./imgs/xiangzi.png" alt="###">
+                <img :src="stor.bannerUrl" alt="###">
               </div>
               <div class="name">
-                行李箱
+                {{stor.name}}
               </div>
             </div>
           </li>
@@ -49,12 +50,27 @@
 
   export default {
     name: "Classify",
+
+    data(){
+      return{
+        index:0,
+        isActive:false
+      }
+    },
+
     mounted(){
       this.$store.dispatch('getShopList')
     },
 
     computed:{
       ...mapState(['shopList'])
+    },
+
+    methods:{
+      switcherSort(index){
+        this.index=index
+        console.log(index);
+      }
     }
   }
 </script>
@@ -121,7 +137,7 @@
         transition-duration: 0ms;
         transform: translate(0px, 0px) translateZ(0px);
         padding-bottom 1.84rem
-        padding: .53333rem 0
+        /*padding: .53333rem 0*/
         .item
           position: relative;
           width: 100%;
@@ -129,6 +145,7 @@
           text-align: center;
           border: none;
           line-height .66667rem
+          margin-top: .53333rem;
         .active
           &::before
             content: ' ';
@@ -150,15 +167,14 @@
       background: center no-repeat #f4f4f4;
       background-size: cover;
       border-radius: 4px;
-      img
-        width 100%
-        height 100%
       .banner-bg
         display: table-cell;
         vertical-align: middle;
         text-align: center;
         font-size: .37333rem;
         color: #fff;
+        >img
+          width 100%
     .cateList
       margin-bottom: .16rem;
       .hd
@@ -173,7 +189,7 @@
       .list
         .cateItem
           display: inline-block;
-          margin-right: .45333rem;
+          margin-right: .4rem;
           font-size: 0;
           width: 1.92rem;
           vertical-align: top;

@@ -15,7 +15,7 @@
       </span>
       <span>分类</span>
     </a>
-    <a href="javascript:;" class="guide_item" :class="{on: $route.path==='/search'}" @click="goTo('/search')">
+    <a href="javascript:;" class="guide_item" :class="{on: $route.path==='/topic'}" @click="goTo('/topic')">
       <span class="item_icon">
         <i class="iconfont icon-checkbox-weixuan"></i>
       </span>
@@ -72,7 +72,7 @@
       height .74667rem
       color purple
       &.on
-        color deeppink
+        color red
       span
         font-size .32rem
         margin-top 2px

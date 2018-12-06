@@ -8,6 +8,8 @@ const BASE = ''
 //获取商品列表
 export const reqGetShopList = () => ajax(BASE+'/classify')
 
+//获取商品补充列表
+export const reqGetShopReplenish = () => ajax(BASE+'/classify')
 
 //获取推荐列表
-export const reqGetRecommendList = () => ajax(BASE+'/search')
+export const reqGetRecommendList = () => ajax(BASE+'/topic')

@@ -1,7 +1,7 @@
 <template>
-<div>
-  Search
-</div>
+    <div>
+      <input type="text" placeholder="搜索">
+    </div>
 </template>
 
 <script>

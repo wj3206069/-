@@ -3,5 +3,7 @@
 */
 
 export default {
-  shopList:[]
+  shopList:[],
+  topicList:[],
+  shopReplenish:[]
 }

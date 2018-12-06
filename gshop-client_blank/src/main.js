@@ -5,10 +5,14 @@ import App from './App'
 import router from './router'
 import 'lib-flexible/flexible.js'
 import store from './store'
+import Header from './components/Header/Header'
 
 import './mock/mockServer'
 
 Vue.config.productionTip = false
+
+/*注册全局组件*/
+Vue.component('Header',Header)
 
 /* eslint-disable no-new */
 new Vue({

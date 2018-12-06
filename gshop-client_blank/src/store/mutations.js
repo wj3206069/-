@@ -3,13 +3,22 @@
 */
 import Vue from 'vue';
 import {
-  RECEIVE_RECOMMENDLIST,
-  RECEIVE_SHOPLIST
+  RECEIVE_SHOPLIST,
+  RECEIVE_SHOPREPLENISH,
+  RECEIVE_TOPICLIST
 } from "./mutations_types";
 
 
 export default {
   [RECEIVE_SHOPLIST](state,{shopList}){
     state.shopList = shopList
+  },
+
+  [RECEIVE_SHOPREPLENISH](state,{shopReplenish}){
+    state.shopReplenish = shopReplenish
+  },
+
+  [RECEIVE_TOPICLIST](state,{topicList}){
+    state.topicList = topicList
   }
 }
