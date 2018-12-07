@@ -21,14 +21,15 @@
   </div>
     <div class="btnWarp" >
       <div class="w-button">
-        <i class="iconfont icon-zhikeshuma-"></i>
-        <span>手机号码登录</span>
+        <i class="iconfont icon-zhikeshuma-" v-show="!isIDLogin"></i>
+        <span @click="">{{isIDLogin?"登陆":"手机号码登录"}}</span>
       </div>
       <div class="w-button login">
-        <i class="iconfont icon-youxiang"></i>
-        <span @click="isIDLogin=!isIDLogin">邮箱帐号登录</span>
+        <i class="iconfont icon-youxiang" v-show="!isIDLogin"></i>
+        <span @click="isIDLogin=!isIDLogin" v-if="!isIDLogin">邮箱帐号登录</span>
+        <span @click="isIDLogin=!isIDLogin" v-if="isIDLogin">其他方式登陆</span>
       </div>
-      <div class="btn">
+      <div class="btn" v-show="!isIDLogin">
         <span>手机号快捷注册</span>
         <i class="iconfont icon-jiantou"></i>
       </div>
@@ -62,7 +63,8 @@
     name: "PersonalCenter",
     data(){
       return{
-        isIDLogin:false
+        isIDLogin:false,
+        isIphoneLogin:false
       }
     },
   }
@@ -182,7 +184,6 @@
         font-size 0.38rem
 .imgWith
   width 2.57333rem!important
-  height: 1.2rem
 .paddingTop
   padding-top .53333rem!important
 

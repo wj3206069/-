@@ -4,14 +4,20 @@
 
 import {
   RECEIVE_SHOPLIST,
-  RECEIVE_SHOPREPLENISH,
-  RECEIVE_TOPICLIST
+  RECEIVE_HOMELIST,
+  RECEIVE_TOPICLIST,
+  RECEIVE_HOMELBT,
+  RECEIVE_REFERRER,
+  RECEIVE_DISCOVER
 } from './mutations_types'
 
 import {
   reqGetShopList,
-  reqGetShopReplenish,
-  reqGetRecommendList
+  reqGetHomeList,
+  reqGetRecommendList,
+  reqGetHomeLbt,
+  reqGetAuto,
+  reqGetManual
 } from "../api";
 
 export default {
@@ -35,18 +41,42 @@ export default {
     }
   },
 
-  //获取商家列表的异步action
-  async getShopReplenish({commit}){
-    const result = await reqGetShopReplenish()
+  //获取首页数据action
+  async getHomeList({commit}){
+    const result = await reqGetHomeList()
     //1.发送异步的ajax请求
     if(result.code === 0){
-      const shopReplenish = result.data
-      commit(RECEIVE_SHOPREPLENISH,{shopReplenish})
+      const homeList = result.data
+      commit(RECEIVE_HOMELIST,{homeList})
     }
   },
 
-  reqGetRecommendList({commit,state}){
+  //获取首页lbt的数据
+  async getHomeLbt({commit}, cb){
+   const result = await reqGetHomeLbt()
+    //1.发送异步的ajax请求
+    if(result.code === '200'){
+      const homeLbt = result.data
+      commit(RECEIVE_HOMELBT,{homeLbt})
+     cb && cb()
+   }
+   },
 
+  //获取推荐列表
+   async getAuto({commit},required){
+       const result = await reqGetAuto(required)
+      if(result.code==='200'){
+         const recommendList = result.data
+        commit(RECEIVE_REFERRER,{recommendList})
+      }
+    },
+
+  //获取推荐列表
+  async getManual({commit},required){
+    const result = await reqGetManual(required)
+    if(result.code==200){
+      const discoverList = result.data
+      commit(RECEIVE_DISCOVER,{discoverList})
+    }
   }
-
 }

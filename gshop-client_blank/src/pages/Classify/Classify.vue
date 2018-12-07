@@ -22,7 +22,7 @@
     <div class="subCateList">
         <div class="banner">
           <div class="banner-bg" v-if="shopList[0]">
-            <img :src="shopList[index].wapBannerUrl" alt="">
+            <img :src="index===0?shopList[index].wapBannerUrl:shopList[index].bannerUrl" alt="">
           </div>
         </div>
       <div class="cateList" >
@@ -31,7 +31,7 @@
           <li  class="cateItem"  v-for="(stor,i) in shopList[index].subCateList" :key="i">
             <div>
               <div class="cateImgWrapper">
-                <img :src="stor.bannerUrl" alt="###">
+                <img :src="stor.wapBannerUrl" alt="###">
               </div>
               <div class="name">
                 {{stor.name}}
@@ -47,6 +47,7 @@
 <script>
 
   import {mapState} from 'vuex'
+  import BScroll from 'better-scroll'
 
   export default {
     name: "Classify",
@@ -60,6 +61,9 @@
 
     mounted(){
       this.$store.dispatch('getShopList')
+      new BScroll('.navWrap',{
+        click:true
+      })
     },
 
     computed:{

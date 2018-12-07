@@ -4,8 +4,11 @@
 import Vue from 'vue';
 import {
   RECEIVE_SHOPLIST,
-  RECEIVE_SHOPREPLENISH,
-  RECEIVE_TOPICLIST
+  RECEIVE_HOMELIST,
+  RECEIVE_TOPICLIST,
+  RECEIVE_HOMELBT,
+  RECEIVE_DISCOVER,
+  RECEIVE_REFERRER
 } from "./mutations_types";
 
 
@@ -14,11 +17,23 @@ export default {
     state.shopList = shopList
   },
 
-  [RECEIVE_SHOPREPLENISH](state,{shopReplenish}){
-    state.shopReplenish = shopReplenish
-  },
-
   [RECEIVE_TOPICLIST](state,{topicList}){
     state.topicList = topicList
+  },
+
+  [RECEIVE_HOMELIST](state,{homeList}){
+    state.homeList = homeList
+  },
+
+  [RECEIVE_HOMELBT](state,{homeLbt}){
+    state.homeLbt = homeLbt
+  },
+
+  [RECEIVE_DISCOVER](state,{discoverList}){
+    state.discoverList = discoverList
+  },
+  
+  [RECEIVE_REFERRER](state,{recommendList}){
+    state.recommendList = recommendList
   }
 }

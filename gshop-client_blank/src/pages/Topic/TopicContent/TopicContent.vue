@@ -1,49 +1,49 @@
 <template>
-<div>
-  <div class="wrap" v-for="(item,l) in discoverList" :key="l">
-    <div v-for="(nack,i) in item.topics" :key="i">
-      <div class="m-tpls" v-if="nack.type===1">
-        <a href="">
-          <div class="u-name">
+  <div>
+    <div class="wrap" v-for="(item,l) in discoverList" :key="l">
+      <div v-for="(nack,i) in item.topics" :key="i">
+        <div class="m-tpls" v-if="nack.type===1">
+          <a href="">
+            <div class="u-name">
           <span class="ava">
             <img :src="nack.avatar" alt="" width="100%" height="100%">
           </span>
-            <span>{{nack.nickname}}</span>
-          </div>
-          <div class="title">{{nack.title}}</div>
-          <div class="u-pic">
-            <img :src="nack.picUrl" alt="" width="100%" height="100%">
-          </div>
-          <div class="u-rcount">
-            <i class="ico iconfont icon-yulan"></i>
-            <span>{{nack.readCount}} 人看过</span>
-          </div>
-        </a>
-      </div>
-      <div class="m-tpls m-tpls-picker" v-if="nack.type===0">
-        <a href="" class="u-flexbox">
-          <div class="info">
-            <div class="u-name">
-                <span class="ava">
-                <img :src="nack.avatar" alt="" width="100%" height="100%">
-              </span>
               <span>{{nack.nickname}}</span>
             </div>
             <div class="title">{{nack.title}}</div>
-            <div class="desc">{{nack.subTitle}}</div>
+            <div class="u-pic">
+              <img :src="nack.picUrl" alt="" width="100%" height="100%">
+            </div>
             <div class="u-rcount">
               <i class="ico iconfont icon-yulan"></i>
               <span>{{nack.readCount}} 人看过</span>
             </div>
-          </div>
-          <div class="u-pic">
-            <img :src="nack.picUrl" alt="" width="100%" height="100%">
-          </div>
-        </a>
+          </a>
+        </div>
+        <div class="m-tpls m-tpls-picker" v-if="nack.type===0">
+          <a href="" class="u-flexbox">
+            <div class="info">
+              <div class="u-name">
+                <span class="ava">
+                <img :src="nack.avatar" alt="" width="100%" height="100%">
+              </span>
+                <span>{{nack.nickname}}</span>
+              </div>
+              <div class="title">{{nack.title}}</div>
+              <div class="desc">{{nack.subTitle}}</div>
+              <div class="u-rcount">
+                <i class="ico iconfont icon-yulan"></i>
+                <span>{{nack.readCount}} 人看过</span>
+              </div>
+            </div>
+            <div class="u-pic">
+              <img :src="nack.picUrl" alt="" width="100%" height="100%">
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   </div>
-</div>
 
 
 

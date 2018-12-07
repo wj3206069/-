@@ -9,37 +9,13 @@
         </li>
       </div>
     </div>
-    <div class="contents" v-for="(t,i) in topicList" :key="i">
-      <img v-if="t.ad" :src="t.ad.picUrl" alt="">
-      <div class="content" v-for="(topic,index) in t.topics" :key="index">
-        <a href="" class="flexbox" >
-          <div class="info">
-            <div class="title">
-            <span class="ava">
-              <img :src="topic.avatar" alt="">
-            </span>
-              <span>{{topic.nickname}} </span>
-            </div>
-            <div class="text">
-              {{topic.subTitle}}
-            </div>
-            <div class="desc">双12时髦保暖羽绒服低至6折</div>
-            <div class="rcount">
-              <i class="icn iconfont icon-yulan"></i>
-              <span>22.4k人看过</span>
-            </div>
-          </div>
-          <div class="pic">
-            <img :src="topic.picUrl" alt="">
-          </div>
-        </a>
-      </div>
-    </div>
+    <TopicContent/>
   </div>
 </template>
 
 <script>
   import {mapState} from 'vuex'
+  import TopicContent from './TopicContent/TopicContent'
 
   export default {
     name: "Search",
@@ -103,6 +79,10 @@
       isActive(i) {
         this.index = i
       }
+    },
+
+    components:{
+      TopicContent
     }
   }
 </script>

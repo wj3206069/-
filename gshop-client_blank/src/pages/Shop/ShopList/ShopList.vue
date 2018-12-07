@@ -2,39 +2,19 @@
   <section>
     <div class="swiper-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" >
-          <img src="../images/1.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/2.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/3.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/4.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/5.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/6.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/7.jpg" alt="">
-        </div>
-        <div class="swiper-slide" >
-          <img src="../images/8.jpg" alt="">
+        <div class="swiper-slide" v-for="(item,index) in homeLbt" :key="index">
+          <img :src="item.picUrl" alt="">
         </div>
       </div>
        <div class="swiper-pagination" >
-         <span class="swiper-pagination-bullet is-active" v-for="(item,index) in imgSrc" :key="index"></span>
+         <span class="swiper-pagination-bullet is-active"></span>
        </div>
     </div>
   </section>
 </template>
 
 <script>
+  import {mapState} from 'vuex'
   import Swiper from 'swiper'
   import "swiper/dist/css/swiper.min.css"
 
@@ -47,23 +27,32 @@
     },
 
     mounted(){
-      new Swiper('.swiper-container',{
-        /*effect: "fade",*/
-        loop: true,
-        autoplay: {
-          autoplay:true,
-          delay: 3000
-        },
+      this.$store.dispatch('getHomeLbt',()=>{
+        this.$nextTick(() => {
+          new Swiper('.swiper-container',{
+            /*effect: "fade",*/
+            loop: true,
+            autoplay: {
+              autoplay:true,
+              delay: 3000
+            },
 
-        // 如果需要分页器
-        pagination: '.swiper-pagination-bullet',
-        paginationElement : 'span',
-        paginationClickable :true,
-        paginationBulletRender: function (swiper, index, className) {
-          return '<span class="' + className + '">' + (index + 1) + '</span>';
-        }
+            // 如果需要分页器
+            pagination: '.swiper-pagination-bullet',
+            paginationElement : 'span',
+            paginationClickable :true,
+            paginationBulletRender: function (swiper, index, className) {
+              return '<span class="' + className + '">' + (index + 1) + '</span>';
+            }
+          })
+        })
       })
-    }
+
+    },
+
+    computed: {
+      ...mapState(['homeLbt'])
+    },
   }
 </script>
 

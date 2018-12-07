@@ -1,42 +1,5973 @@
-[
-  {
-    "tabId": 9,
-    "tabName": "推荐",
-    "tabType": 3,
-    "defaultShow": false,
-    "linkUrl": null,
-    "linkType": null
+{
+  "newItemList": [
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/5b874370ef8f63ee41865bbee4de2890.jpg",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/21712dc8c9b39049c0731613905ca56a.png",
+      "tagId": 0,
+      "simpleDesc": "3秒速热 暖遍全身",
+      "primarySkuPreSellPrice": 362,
+      "promTag": "心跳价",
+      "limitedFlag": 204,
+      "newItemFlag": true,
+      "itemTagList": [
+        {
+          "itemId": 0,
+          "tagId": 0,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        },
+        {
+          "itemId": 3454010,
+          "tagId": 127887026,
+          "name": "心跳价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 1,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48559215",
+          "itemId": "3454010",
+          "materialName": "网易智造PTC家用智能暖风机（福袋装）",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 1,
+          "itemIdList": [
+            "3454010"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48229321"
+        },
+        "modelType": 1
+      },
+      "id": 3454010,
+      "sellVolume": 1363,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/5b874370ef8f63ee41865bbee4de2890.jpg",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "网易智造PTC家用智能暖风机（福袋装）",
+      "productPlace": "",
+      "counterPrice": 499.00,
+      "couponPrice": 0,
+      "retailPrice": 362,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/e5f07ca189b5d6beb6093ea20d4067ce.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/fc91f2693fef1be783afcd0197f03067.png",
+      "tagId": 0,
+      "simpleDesc": "保暖舒适，运动防滑",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 0,
+      "newItemFlag": true,
+      "itemTagList": [
+        {
+          "itemId": 0,
+          "tagId": 0,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48608002",
+          "itemId": "1667068",
+          "materialName": "运动底皮毛一体女靴",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 2,
+          "itemIdList": [
+            "1667068"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48692783"
+        },
+        "modelType": 1
+      },
+      "id": 1667068,
+      "sellVolume": 2185,
+      "isCouponConflict": false,
+      "colorNum": 2,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/e5f07ca189b5d6beb6093ea20d4067ce.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "运动底皮毛一体女靴",
+      "productPlace": "",
+      "counterPrice": 369.00,
+      "couponPrice": 0,
+      "retailPrice": 369.00,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/753030a7f6e4c13277e27c70812a4a8a.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/e6e485890c91b8f66f94079f89d61517.png",
+      "tagId": 0,
+      "simpleDesc": "被雪淹没的圣诞树，闪着一颗星星",
+      "primarySkuPreSellPrice": 0,
+      "limitedFlag": 0,
+      "newItemFlag": true,
+      "itemTagList": [
+        {
+          "itemId": 0,
+          "tagId": 0,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48608005",
+          "itemId": "3419065",
+          "materialName": "星诞奇遇 圣诞树双层玻璃杯",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 3,
+          "itemIdList": [
+            "3419065"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "44643145"
+        },
+        "modelType": 1
+      },
+      "id": 3419065,
+      "sellVolume": 1326,
+      "isCouponConflict": false,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/753030a7f6e4c13277e27c70812a4a8a.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "星诞奇遇 圣诞树双层玻璃杯",
+      "productPlace": "",
+      "counterPrice": 109.00,
+      "couponPrice": 0,
+      "retailPrice": 109.00,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/058f76d8d44df9783c2e7a17826b6876.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/593ebddb97e6395592de3c9130ccf60a.png",
+      "tagId": 1001037,
+      "simpleDesc": "简洁磨砂质地 短途轻巧出行",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "开天辟地价",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 3408071,
+          "tagId": 127878242,
+          "name": "开天辟地价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48336055",
+          "itemId": "3408071",
+          "materialName": "20寸 磨砂PC膜拉链登机箱",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 4,
+          "itemIdList": [
+            "3408071"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "44561363"
+        },
+        "modelType": 1
+      },
+      "id": 3408071,
+      "sellVolume": 1655,
+      "isCouponConflict": true,
+      "colorNum": 8,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/058f76d8d44df9783c2e7a17826b6876.png",
+      "tagName": "新秀丽制造商",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "20寸 磨砂PC膜拉链登机箱",
+      "productPlace": "",
+      "counterPrice": 269.00,
+      "couponPrice": 0,
+      "retailPrice": 188,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/2d0c2e9c8bf8862e2b010d2665bdfa2c.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/62fea05c2adb3a346ee5e23a2b48fab9.png",
+      "tagId": 0,
+      "simpleDesc": "迷人狐狸领，华贵雍容",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "双十二同价",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 1648024,
+          "tagId": 127887047,
+          "name": "双十二同价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48559212",
+          "itemId": "1648024",
+          "materialName": "女式长款狐狸毛领羽绒服",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 5,
+          "itemIdList": [
+            "1648024"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48486587"
+        },
+        "modelType": 1
+      },
+      "id": 1648024,
+      "sellVolume": 901,
+      "isCouponConflict": true,
+      "colorNum": 2,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/2d0c2e9c8bf8862e2b010d2665bdfa2c.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "女式长款狐狸毛领羽绒服",
+      "productPlace": "",
+      "counterPrice": 1599.00,
+      "couponPrice": 0,
+      "retailPrice": 1262,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/e6f2eb7411de266fe4cb99c5fadcc3da.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/675dbc5080b33299d5b28a2009fc5d0a.png",
+      "tagId": 0,
+      "simpleDesc": "悠长饱满，清香软糯",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "美食狂欢",
+      "limitedFlag": 204,
+      "newItemFlag": true,
+      "itemTagList": [
+        {
+          "itemId": 0,
+          "tagId": 0,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        },
+        {
+          "itemId": 3446033,
+          "tagId": 127887054,
+          "name": "美食狂欢",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48542047",
+          "itemId": "3446033",
+          "materialName": "长粒香大米 5千克*2袋",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 6,
+          "itemIdList": [
+            "3446033"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48692781"
+        },
+        "modelType": 1
+      },
+      "id": 3446033,
+      "sellVolume": 417,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/e6f2eb7411de266fe4cb99c5fadcc3da.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "长粒香大米 5千克*2袋",
+      "productPlace": "",
+      "counterPrice": 98.00,
+      "couponPrice": 0,
+      "retailPrice": 78,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/3b6fc2427da7cad5a33d3c7f8e1007c8.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/c78402fd8761c5e2c7eba1bb63fcf07d.png",
+      "tagId": 0,
+      "simpleDesc": "柳州味道，酸爽香臭",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "美食狂欢",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 1690022,
+          "tagId": 127887063,
+          "name": "美食狂欢",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "48575218",
+          "itemId": "1690022",
+          "materialName": "螺蛳粉 370克*6盒",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 7,
+          "itemIdList": [
+            "1690022"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48486611"
+        },
+        "modelType": 1
+      },
+      "id": 1690022,
+      "sellVolume": 5006,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/3b6fc2427da7cad5a33d3c7f8e1007c8.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "螺蛳粉 370克*6盒",
+      "productPlace": "",
+      "counterPrice": 78.00,
+      "couponPrice": 0,
+      "retailPrice": 68,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/2fed4ddceac970a81eb43f0642b74415.jpg",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/0794b2829f9919b7a75c968d398ec8a1.png",
+      "tagId": 0,
+      "simpleDesc": "肉质剔透，甘润适口",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "美食狂欢",
+      "limitedFlag": 204,
+      "newItemFlag": true,
+      "itemTagList": [
+        {
+          "itemId": 0,
+          "tagId": 0,
+          "name": "新品",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 1
+        },
+        {
+          "itemId": 3393026,
+          "tagId": 127887063,
+          "name": "美食狂欢",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "modelType": 3
+      },
+      "id": 3393026,
+      "sellVolume": 1383,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/cdba62bc0f0d767a8eb2c1950827614b.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "黄桃罐头 425克*6罐",
+      "productPlace": "",
+      "counterPrice": 49.00,
+      "couponPrice": 45,
+      "retailPrice": 45,
+      "status": 2
+    }
+  ],
+  "sceneLightShoppingGuideModule": [
+    {
+      "styleItem": {
+        "backgroundUrl": "https://yanxuan.nosdn.127.net/1ceda8631e67916918c7235354d54273.png",
+        "descColor": "7f7f7f",
+        "itemFrom": 2,
+        "picUrlList": [
+          "http://yanxuan.nosdn.127.net/fecd07d2ddbc04d5a44a662bc51325ed.png",
+          "http://yanxuan.nosdn.127.net/c24d528dfc4c043cad7cdb560d2b7764.png"
+        ],
+        "titleColor": "333333",
+        "extra": {
+          "materialType": "场景轻导购",
+          "materialId": "48610454",
+          "materialName": "双12爱吃福利社-正式",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 1,
+          "crmUserGroupId": "0",
+          "taskId": "48610455"
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1070000,
+            "picUrl": "http://yanxuan.nosdn.127.net/fecd07d2ddbc04d5a44a662bc51325ed.png"
+          },
+          {
+            "itemId": 1137006,
+            "picUrl": "http://yanxuan.nosdn.127.net/c24d528dfc4c043cad7cdb560d2b7764.png"
+          }
+        ],
+        "title": "12.12爱吃福利社",
+        "targetUrl": "https://act.you.163.com/act/pub/zfy87iw6d9.html",
+        "desc": "暖冬美食荟萃"
+      }
+    },
+    {
+      "styleItem": {
+        "backgroundUrl": "https://yanxuan.nosdn.127.net/eb8554348a6c662460eefa4f98f6cc24.png",
+        "descColor": "7f7f7f",
+        "itemFrom": 2,
+        "picUrlList": [
+          "http://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png",
+          "http://yanxuan.nosdn.127.net/e1d2f0b529eddc9b645997d0f16e9aca.png"
+        ],
+        "titleColor": "333333",
+        "extra": {
+          "materialType": "场景轻导购",
+          "materialId": "48485960",
+          "materialName": "专题 十二月必备好物",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 2,
+          "crmUserGroupId": "0",
+          "taskId": "48486115"
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1624001,
+            "picUrl": "http://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png"
+          },
+          {
+            "itemId": 3408014,
+            "picUrl": "http://yanxuan.nosdn.127.net/e1d2f0b529eddc9b645997d0f16e9aca.png"
+          }
+        ],
+        "title": "12月必买好物",
+        "targetUrl": "https://m.you.163.com/topic/v1/pub/qiE5Nt5gKJ.html",
+        "desc": "冬日小确幸指南"
+      }
+    },
+    {
+      "styleItem": {
+        "backgroundUrl": "https://yanxuan.nosdn.127.net/8a535b1c7d9403941367ee4dfc174252.png",
+        "descColor": "7f7f7f",
+        "itemFrom": 2,
+        "picUrlList": [
+          "http://yanxuan.nosdn.127.net/71536ef8ebef1a6bb8ba88b2b8107b85.png",
+          "http://yanxuan.nosdn.127.net/abf8da82c5363f6b31bfdc2de8caa496.png"
+        ],
+        "titleColor": "333333",
+        "extra": {
+          "materialType": "场景轻导购",
+          "materialId": "48485703",
+          "materialName": "专题 幸福感好物",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 3,
+          "crmUserGroupId": "0",
+          "taskId": "48500122"
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1134013,
+            "picUrl": "http://yanxuan.nosdn.127.net/71536ef8ebef1a6bb8ba88b2b8107b85.png"
+          },
+          {
+            "itemId": 1565039,
+            "picUrl": "http://yanxuan.nosdn.127.net/abf8da82c5363f6b31bfdc2de8caa496.png"
+          }
+        ],
+        "title": "幸福感好物搜罗",
+        "targetUrl": "https://m.you.163.com/topic/v1/pub/1lswjCBhs9.html",
+        "desc": "生活体验升级"
+      }
+    },
+    {
+      "styleItem": {
+        "backgroundUrl": "https://yanxuan.nosdn.127.net/52eb6e6b08cc3e3febfb55625ab36427.png",
+        "descColor": "7f7f7f",
+        "itemFrom": 2,
+        "picUrlList": [
+          "http://yanxuan.nosdn.127.net/855a0c57ab058ee6c41c1b11a6e594d4.png",
+          "http://yanxuan.nosdn.127.net/04763003a311710e58da2539bf573949.png"
+        ],
+        "titleColor": "333333",
+        "extra": {
+          "materialType": "场景轻导购",
+          "materialId": "48485288",
+          "materialName": "专题 类目升级盘点",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 4,
+          "crmUserGroupId": "0",
+          "taskId": "48543648"
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1108008,
+            "picUrl": "http://yanxuan.nosdn.127.net/855a0c57ab058ee6c41c1b11a6e594d4.png"
+          },
+          {
+            "itemId": 1484014,
+            "picUrl": "http://yanxuan.nosdn.127.net/04763003a311710e58da2539bf573949.png"
+          }
+        ],
+        "title": "品类好物盘点",
+        "targetUrl": "https://m.you.163.com/topic/v1/pub/V5eDjkYpxM.html",
+        "desc": "美好商品进阶之路"
+      }
+    }
+  ],
+  "kingKongModule": {
+    "norColor": "ff000000",
+    "background": "http://yanxuan.nosdn.127.net/56cd3b1e32f4d2edd03915efcef04de0.png",
+    "kingKongList": [
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/98b6a6fc32f1fea861934816729e2cf5.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1005000&style=pd",
+        "text": "居家",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/46d33b9a9fbb659fcbac37ec58d51e62.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1008000&style=pd",
+        "text": "鞋包配饰",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/31831ada59dc10319cba195620ed9ed0.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1010000&style=pd",
+        "text": "服装",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/45833c71d4b0d0de0755a20f893fa25f.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1043000&style=pd",
+        "text": "电器",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/c64726637aebb2767c881bf7b3566bbf.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1011000&style=pd",
+        "text": "婴童",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/a9d624f91ae8798a502eb5ac15757219.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1005002&style=pd",
+        "text": "饮食",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/ec08480030946220229beaebd8ca273f.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1013001&style=pd",
+        "text": "洗护",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/fc3e359da08577228354da61ea912c99.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1005001&style=pd",
+        "text": "餐厨",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/97eb6fd2c7ea76a3a42b9dafa3bd6543.png",
+        "schemeUrl": "http://m.you.163.com/item/list?categoryId=1019000&style=pd",
+        "text": "文体",
+        "textColor": "333333"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/db5e2ce8c66f7db3f4282ecb24a64236.png",
+        "schemeUrl": "https://act.you.163.com/act/pub/6kyfPjwjEz.html",
+        "text": "超会秒杀",
+        "textColor": "333333"
+      }
+    ],
+    "selectedColor": "ffffffff"
   },
-  {
-    "tabId": 4,
-    "tabName": "达人",
-    "tabType": 0,
-    "defaultShow": false,
-    "linkUrl": null,
-    "linkType": null
+  "categoryModule": [
+    {
+      "manuItemIdList": [],
+      "titleSchemeUrl": "http://you.163.com/topic/v1/pub/EWtiwou4Ka.html",
+      "autoItemIdList": [
+        1505029,
+        1497001,
+        1116033,
+        1197009,
+        1401006,
+        1458000,
+        1369013,
+        1484014,
+        1623003,
+        1149005,
+        1621025,
+        1334020,
+        1116051,
+        1142056,
+        1663074,
+        1429006,
+        1506045,
+        1221001,
+        1417023,
+        1674003,
+        1127003,
+        1365002,
+        1283025,
+        1553041,
+        1324020,
+        1155015,
+        1397017,
+        1505012,
+        1652044,
+        1513031,
+        1138000,
+        1487016,
+        1664003,
+        1356004,
+        1506047,
+        1328009,
+        1127006,
+        1325030,
+        1506032,
+        1189006,
+        1516008,
+        1656012,
+        1468002,
+        1145021,
+        1298009,
+        1156185,
+        1542000,
+        1356005,
+        1325028,
+        1334001,
+        1296000,
+        1673009,
+        1251043,
+        1334002,
+        1553038,
+        1446041,
+        1295000,
+        1561001,
+        1674020,
+        1469019,
+        1051004,
+        1513030,
+        1637002,
+        1585000,
+        1683002,
+        1477014,
+        1522021,
+        1131030,
+        1552007,
+        1487013,
+        1468020,
+        1413007,
+        1543002,
+        3382004,
+        1458001,
+        1505013,
+        1324027,
+        1356002,
+        1682030,
+        1516011
+      ],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "47696100",
+          "materialName": "专题断货榜",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 1,
+          "itemIdList": [
+            "1497001",
+            "1116033",
+            "1197009",
+            "1401006",
+            "1458000",
+            "1369013",
+            "1484014",
+            "1623003"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48637841"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e5a7f8681f49a525abd7106fe833c2ce.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/73a065d6fc8c32197b54421808c54788.png",
+          "tagId": 0,
+          "simpleDesc": "免费安装，即热恒温、暖风烘干、自动除臭",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "明星特惠价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1497001,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            },
+            {
+              "itemId": 1497001,
+              "tagId": 127886022,
+              "name": "明星特惠价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1497001,
+          "sellVolume": 6399,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e5a7f8681f49a525abd7106fe833c2ce.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "智能马桶盖",
+          "productPlace": "",
+          "counterPrice": 1599.00,
+          "couponPrice": 0,
+          "retailPrice": 1229,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/b3a401594caf734b7fd843df7ffea1a6.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/5316edad774df95d0e350f90e60e211c.png",
+          "tagId": 0,
+          "simpleDesc": "专利设计，强力承托，重点呵护",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1116033,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            },
+            {
+              "itemId": 1116033,
+              "tagId": 127886057,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1116033,
+          "sellVolume": 3436,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/b3a401594caf734b7fd843df7ffea1a6.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "多功能人体工学转椅",
+          "productPlace": "",
+          "counterPrice": 1399.00,
+          "couponPrice": 0,
+          "retailPrice": 1148,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/5dbe801ee7900269049b7d3b4ec02071.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/afefef84a592743d93b85b8d11bbc707.png",
+          "tagId": 0,
+          "simpleDesc": "进口优质原料，无食品添加剂",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1197009,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1197009,
+          "sellVolume": 3841,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/5dbe801ee7900269049b7d3b4ec02071.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "柔风黄油曲奇",
+          "productPlace": "2个口味",
+          "counterPrice": 98.00,
+          "couponPrice": 0,
+          "retailPrice": 78,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/74452c652a03866b6de171362f9ab4a8.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/122a30188b07fa93daf3257da917296b.png",
+          "tagId": 0,
+          "simpleDesc": "瞬间吸尘，无线自由，家居/汽车两用",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1401006,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1401006,
+          "sellVolume": 7956,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/74452c652a03866b6de171362f9ab4a8.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造T300无线吸尘器",
+          "productPlace": "",
+          "counterPrice": 1599.00,
+          "couponPrice": 0,
+          "retailPrice": 1229,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/944289bc6953d9a40c8019958a1b18f9.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/a07c82f8b26a4ed42b1d697eb9ea418f.png",
+          "tagId": 1080000,
+          "simpleDesc": "天然成分足贴 祛除湿气",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "囤货专场",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1458000,
+              "tagId": 127887050,
+              "name": "囤货专场",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1458000,
+          "sellVolume": 46778,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/944289bc6953d9a40c8019958a1b18f9.png",
+          "tagName": "海外制造商",
+          "pieceUnitDesc": "盒",
+          "resourcesId": 0,
+          "name": "日本制造 天然草本睡眠足贴 5味可选",
+          "productPlace": "日本制造",
+          "counterPrice": 69.00,
+          "couponPrice": 0,
+          "retailPrice": 58,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/996d13e6ae792f86c26b9546b86352c7.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/a70383508d01b11e3a8aac294e83a2bd.png",
+          "tagId": 0,
+          "simpleDesc": "无频闪蓝光危害，双光源面光，让眼睛更享受",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1369013,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1369013,
+          "sellVolume": 11976,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/996d13e6ae792f86c26b9546b86352c7.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造双光源记忆护目灯",
+          "productPlace": "",
+          "counterPrice": 249.00,
+          "couponPrice": 0,
+          "retailPrice": 199,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/6f1fb38e32257756969042173c290053.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/04763003a311710e58da2539bf573949.png",
+          "tagId": 0,
+          "simpleDesc": "给爱美的自己多一点滋润",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1484014,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1484014,
+          "sellVolume": 7360,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/6f1fb38e32257756969042173c290053.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "养生壶",
+          "productPlace": "",
+          "counterPrice": 199.00,
+          "couponPrice": 0,
+          "retailPrice": 163,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/7f2fc8211ac55b4e5193e5454788b17f.jpg",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/651037257bc9a7cffc16fbf0526becf4.png",
+          "tagId": 0,
+          "simpleDesc": "人体红外自动感应,可挂可贴",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12同价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1623003,
+              "tagId": 127887032,
+              "name": "双12同价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1623003,
+          "sellVolume": 20863,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/7f2fc8211ac55b4e5193e5454788b17f.jpg",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造壁挂式感应小夜灯",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "couponPrice": 0,
+          "retailPrice": 37.6,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/e00ce7c76ca85291071c81d72e8b6bf4.jpg"
+    },
+    {
+      "manuItemIdList": [],
+      "titleSchemeUrl": "http://you.163.com/topic/v1/pub/MLfc8sZn9r.html",
+      "autoItemIdList": [
+        1154003,
+        1127007,
+        1077003,
+        1415008,
+        1113001,
+        1621025,
+        1021020,
+        1654005,
+        1418009,
+        1156162,
+        1129015,
+        1129016,
+        1124015,
+        1006058,
+        1164042,
+        1391001,
+        1189013,
+        1418015,
+        1652044,
+        1322003,
+        1649004,
+        1501008,
+        1009026,
+        1021021,
+        1653005,
+        1032007,
+        1653006,
+        1356004,
+        1621033,
+        1021001,
+        1652019,
+        1512026,
+        1648041,
+        1085007,
+        1551029,
+        1589019,
+        1402007,
+        1542005,
+        1664004,
+        1418007,
+        1296000,
+        1655001,
+        1358011,
+        1134062,
+        1608002,
+        1023016,
+        1023019,
+        1525018,
+        1446000,
+        1667001,
+        1554011,
+        3379022,
+        1021000,
+        1662046,
+        1450008,
+        1505032,
+        1057033,
+        1554013,
+        1481021,
+        1513021,
+        1454006,
+        1657020,
+        1580038,
+        1076003,
+        1572013,
+        1657021,
+        1487030,
+        1062008,
+        1226008,
+        1295000,
+        1023009,
+        1636003,
+        1579024,
+        1674020,
+        1260040,
+        1006056,
+        1540016,
+        1156019,
+        1550048,
+        1588011,
+        1539003,
+        1589018,
+        1108007,
+        1657009,
+        1188003,
+        1096001,
+        1269023,
+        1127035,
+        1503000,
+        1511005,
+        1023023,
+        1343000,
+        1126009,
+        1682032,
+        1128008,
+        1486017,
+        1666003,
+        1589016,
+        1356013,
+        1027000,
+        1506033,
+        1282013,
+        1056002,
+        1189000,
+        1554023,
+        1415009,
+        1487013,
+        1589017,
+        1259027,
+        1556017,
+        1135065,
+        1447000,
+        1023021,
+        1048007,
+        1630003,
+        1113002,
+        1057022,
+        1252050,
+        1057021,
+        1062031,
+        1356012,
+        1111009,
+        1259013,
+        1283020,
+        1173005,
+        1620032,
+        1535008,
+        1392019,
+        1116060,
+        1681177,
+        1621012,
+        1653003,
+        1164040,
+        1652029,
+        1170005,
+        1127024,
+        1414004,
+        1619041,
+        1616017,
+        1116058,
+        1156030,
+        1135063,
+        1048008,
+        1135064,
+        1690049,
+        1690050,
+        1197006,
+        1506034,
+        1046012
+      ],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "47696185",
+          "materialName": "专题日用品",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 2,
+          "itemIdList": [
+            "1154003",
+            "1127007",
+            "1077003",
+            "1113001",
+            "1621025",
+            "1021020",
+            "1654005",
+            "1418009"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48637839"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/d9376c059ce15a774199e2cedc5a8d63.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/835612e5c90c335ad6977f84d34f8d23.png",
+          "tagId": 0,
+          "simpleDesc": "999+好评爆款，洁齿又护龈",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1154003,
+              "tagId": 127886008,
+              "name": "双12狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1154003,
+          "sellVolume": 9305,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/d9376c059ce15a774199e2cedc5a8d63.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "全净皓齿变速式声波电动牙刷",
+          "productPlace": "",
+          "counterPrice": 219.00,
+          "couponPrice": 0,
+          "retailPrice": 179,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+          "tagId": 0,
+          "simpleDesc": "累计销量百万，洁齿必备基础款",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1127007,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            },
+            {
+              "itemId": 1127007,
+              "tagId": 127886008,
+              "name": "双12狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1127007,
+          "sellVolume": 39815,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "日式和风声波式电动牙刷（可单买刷头）",
+          "productPlace": "",
+          "counterPrice": 129.00,
+          "couponPrice": 0,
+          "retailPrice": 114,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/a10ed5c19533c9e1e2abf1d8cb843c24.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/a10ed5c19533c9e1e2abf1d8cb843c24.png",
+          "tagId": 0,
+          "simpleDesc": "100%原木浆，融水即化",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1077003,
+          "sellVolume": 79976,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/a10ed5c19533c9e1e2abf1d8cb843c24.png",
+          "pieceUnitDesc": "个",
+          "resourcesId": 0,
+          "name": "10卷/提 谷风一木 小卷纸",
+          "productPlace": "",
+          "counterPrice": 27.90,
+          "couponPrice": 0,
+          "retailPrice": 27.90,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/431a09a43914483f4d70aeda8ecb8a59.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/431a09a43914483f4d70aeda8ecb8a59.png",
+          "tagId": 0,
+          "simpleDesc": "网易员工人手一盒，销量稳居前三",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1113001,
+          "sellVolume": 92842,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/431a09a43914483f4d70aeda8ecb8a59.png",
+          "pieceUnitDesc": "个",
+          "resourcesId": 0,
+          "name": "6包/提 谷风一木 软抽面巾纸",
+          "productPlace": "",
+          "counterPrice": 16.90,
+          "couponPrice": 0,
+          "retailPrice": 16.90,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/92d8551bba1f14e045bbb44edadf4669.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/2d43d642d928240ef2013e8da1c133b2.png",
+          "tagId": 1080000,
+          "simpleDesc": "有效吸收甲醛、去除空间异味",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1621025,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1621025,
+          "sellVolume": 93697,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/92d8551bba1f14e045bbb44edadf4669.png",
+          "tagName": "海外制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "美国制造 除甲醛空气净化剂227g",
+          "productPlace": "美国制造",
+          "counterPrice": 45.00,
+          "couponPrice": 0,
+          "retailPrice": 45.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/b432867921a3f57f3aea007b7a19217b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/1d116324d7d0e90f8cb221ae7a453afb.png",
+          "tagId": 1001018,
+          "simpleDesc": "专业内裤制造商，自由U凸",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 2,
+          "id": 1021020,
+          "sellVolume": 30339,
+          "isCouponConflict": false,
+          "colorNum": 4,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/b432867921a3f57f3aea007b7a19217b.png",
+          "tagName": "Levis制造商",
+          "pieceUnitDesc": "条",
+          "resourcesId": 0,
+          "name": "男式基础平角内裤",
+          "productPlace": "",
+          "counterPrice": 59.00,
+          "couponPrice": 0,
+          "retailPrice": 59.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/826649d50790c8608b6620d8e68d594b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/3767dc4e30cf9934592e0612553b8232.png",
+          "tagId": 0,
+          "simpleDesc": "一双罗纹中筒袜，可以在森系、韩系、法式慵懒风之间自由切换。",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1654005,
+          "sellVolume": 18447,
+          "isCouponConflict": false,
+          "colorNum": 5,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/826649d50790c8608b6620d8e68d594b.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "3双/5双装 女式日系罗纹中筒袜",
+          "productPlace": "",
+          "counterPrice": 36.90,
+          "couponPrice": 0,
+          "retailPrice": 36.90,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/f5348a202aab6a58ed60eb07f5338b6e.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/c62d2076704b7f554951707cb46cb551.png",
+          "tagId": 0,
+          "simpleDesc": "柔软细腻，融水即化无残余",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1418009,
+              "tagId": 127886008,
+              "name": "双12狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 3,
+          "id": 1418009,
+          "sellVolume": 4197,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/f5348a202aab6a58ed60eb07f5338b6e.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "30包 谷风一木小卷纸囤货装",
+          "productPlace": "",
+          "counterPrice": 82.90,
+          "couponPrice": 0,
+          "retailPrice": 76.9,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/3d300175542f86c213da0afd53f7f08c.jpg"
+    },
+    {
+      "manuItemIdList": [
+        1659002,
+        1165015,
+        1652031,
+        1621029,
+        1193005
+      ],
+      "titleSchemeUrl": "http://you.163.com/topic/v1/pub/975DnRVmye.html",
+      "autoItemIdList": [],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "47697246",
+          "materialName": "专题回购榜",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 3,
+          "itemIdList": [
+            "1659002",
+            "1165015",
+            "1652031",
+            "1621029",
+            "1193005"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48637840"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/8a7d846aa334d1a14ae33d612fe4f01e.jpg",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/8ad9f7fc676da04a752012dcacebaaa9.png",
+          "tagId": 0,
+          "simpleDesc": "100%山羊绒 素有软黄金之称",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12同价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1659002,
+              "tagId": 127887037,
+              "name": "双12同价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1659002,
+          "sellVolume": 16101,
+          "isCouponConflict": true,
+          "colorNum": 5,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/8a7d846aa334d1a14ae33d612fe4f01e.jpg",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "100%山羊绒纯色围巾",
+          "productPlace": "",
+          "counterPrice": 289.00,
+          "couponPrice": 0,
+          "retailPrice": 173,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/118c74190b7033170cc98a31cc3ce8bd.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/f319c6837f5d266082da494045ffecac.png",
+          "tagId": 0,
+          "simpleDesc": "从咖啡到纱线，温暖入肤",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1165015,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1165015,
+          "sellVolume": 64651,
+          "isCouponConflict": true,
+          "colorNum": 4,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/118c74190b7033170cc98a31cc3ce8bd.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "男式咖啡碳+5℃保暖内衣（上衣/裤子）",
+          "productPlace": "",
+          "counterPrice": 169.00,
+          "couponPrice": 0,
+          "retailPrice": 99,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/9e47a72a65f166d4b75e61e4609b6375.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/cbbdd7c5622a0eaab31e42247909c959.png",
+          "tagId": 0,
+          "simpleDesc": "经典回炉，百搭利器",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1652031,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1652031,
+          "sellVolume": 8280,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/9e47a72a65f166d4b75e61e4609b6375.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "经典切尔西皮面女靴",
+          "productPlace": "",
+          "counterPrice": 349.00,
+          "couponPrice": 0,
+          "retailPrice": 239,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/972e4733dff6ff59cb85a2fd94e3f72b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/ca09b14f109984ae38d583b6ec5cca27.png",
+          "tagId": 1001000,
+          "simpleDesc": "如羽毛般丰盈质感，温暖一整个冬季",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1621029,
+              "tagId": 127887026,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1621029,
+          "sellVolume": 12341,
+          "isCouponConflict": true,
+          "colorNum": 4,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/972e4733dff6ff59cb85a2fd94e3f72b.png",
+          "tagName": "MUJI制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "雪尼尔保暖家居男/女拖鞋",
+          "productPlace": "",
+          "counterPrice": 43.90,
+          "couponPrice": 0,
+          "retailPrice": 35,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/7dd8360025564712f66c3c84a8edf5f0.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/b461b9d1e307f723e5b25672eebf9b13.png",
+          "tagId": 1033001,
+          "simpleDesc": "基础设计，小胸也能微性感",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "囤货专场",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1193005,
+              "tagId": 127887050,
+              "name": "囤货专场",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1193005,
+          "sellVolume": 8929,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/7dd8360025564712f66c3c84a8edf5f0.png",
+          "tagName": "Jockey制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "女式自然无缝bra短吊带",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "couponPrice": 0,
+          "retailPrice": 38.7,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/881533d9e66e57566114b85b67ab2205.jpg"
+    },
+    {
+      "manuItemIdList": [
+        3402018,
+        3393026,
+        1580026,
+        1684011,
+        3446033,
+        3429041,
+        1634003
+      ],
+      "titleSchemeUrl": "https://m.you.163.com/item/praiseRank",
+      "autoItemIdList": [],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "48564223",
+          "materialName": "好评榜",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 4,
+          "itemIdList": [
+            "3402018",
+            "3393026",
+            "1580026",
+            "1684011",
+            "3446033",
+            "3429041",
+            "1634003"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48690643"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/506033238e56e7924a73617df319fc3a.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/6d417bec6d2e7d05da5e77d7dc5c6dc5.png",
+          "tagId": 0,
+          "simpleDesc": "柔软轻便杜邦纸，出行收纳更轻松\n\n",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 3402018,
+              "tagId": 127886066,
+              "name": "APP特惠",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 3
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3402018,
+          "sellVolume": 3295,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/506033238e56e7924a73617df319fc3a.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "岩灰 杜邦纸收纳袋套装",
+          "productPlace": "",
+          "counterPrice": 119.00,
+          "couponPrice": 0,
+          "retailPrice": 119.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/cdba62bc0f0d767a8eb2c1950827614b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/0794b2829f9919b7a75c968d398ec8a1.png",
+          "tagId": 0,
+          "simpleDesc": "肉质剔透，甘润适口",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 0,
+              "tagId": 0,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3393026,
+              "tagId": 127887063,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3393026,
+          "sellVolume": 1383,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/cdba62bc0f0d767a8eb2c1950827614b.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "黄桃罐头 425克*6罐",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "couponPrice": 0,
+          "retailPrice": 45,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/5189ead044270cc2d887f804bcbc8c93.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/dbb3bb2b4343d75bc8ba348609ca6bcd.png",
+          "tagId": 0,
+          "simpleDesc": "滑糯“软黄金”，显瘦竖条立体修饰挺拔身型",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1580026,
+          "sellVolume": 747,
+          "isCouponConflict": false,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/5189ead044270cc2d887f804bcbc8c93.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "男式羊绒拉链针织开衫",
+          "productPlace": "",
+          "counterPrice": 799.00,
+          "couponPrice": 0,
+          "retailPrice": 799.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/cd047a4005784f2ff2a6f46d97b2478f.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/19a158776d6c09384a56242fd583aab9.png",
+          "tagId": 0,
+          "simpleDesc": "可视化收纳，给衣柜“减减肥”",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1684011,
+          "sellVolume": 447,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/cd047a4005784f2ff2a6f46d97b2478f.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "大容量可折叠布艺收纳箱",
+          "productPlace": "",
+          "counterPrice": 79.00,
+          "couponPrice": 0,
+          "retailPrice": 79.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e6f2eb7411de266fe4cb99c5fadcc3da.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/675dbc5080b33299d5b28a2009fc5d0a.png",
+          "tagId": 0,
+          "simpleDesc": "悠长饱满，清香软糯",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 0,
+              "tagId": 0,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3446033,
+              "tagId": 127887054,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3446033,
+          "sellVolume": 417,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e6f2eb7411de266fe4cb99c5fadcc3da.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "长粒香大米 5千克*2袋",
+          "productPlace": "",
+          "counterPrice": 98.00,
+          "couponPrice": 0,
+          "retailPrice": 78,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/b67317b7235df338eb80541138631134.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/88408bded7697882706efeae1be65ed5.png",
+          "tagId": 0,
+          "simpleDesc": "3层防晒，物理遮光，简洁造黑夜",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3429041,
+          "sellVolume": 926,
+          "isCouponConflict": false,
+          "colorNum": 3,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/b67317b7235df338eb80541138631134.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "简约现代遮光窗帘",
+          "productPlace": "",
+          "counterPrice": 155.00,
+          "couponPrice": 0,
+          "retailPrice": 155.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/279203bf34f43c142468d4412dea0a12.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/e1f6e3d6a799018cc430fb3c90f1c57a.png",
+          "tagId": 0,
+          "simpleDesc": "白鹅绒与狐狸毛领的组合，做个向阳人",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1634003,
+              "tagId": 127887026,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1634003,
+          "sellVolume": 2401,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/279203bf34f43c142468d4412dea0a12.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "男式毛领大鹅绒羽绒服",
+          "productPlace": "",
+          "counterPrice": 1299.00,
+          "couponPrice": 0,
+          "retailPrice": 1025,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/a93606fbdd934ed3daed79a7c2c629fe.jpg"
+    },
+    {
+      "manuItemIdList": [
+        1281008,
+        1551095,
+        1625007,
+        1293000,
+        1417023
+      ],
+      "titleSchemeUrl": "http://you.163.com/topic/v1/pub/At4NAcRenJ.html",
+      "autoItemIdList": [],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "45033273",
+          "materialName": "专题—饮食—上班族必囤",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 5,
+          "itemIdList": [
+            "1281008",
+            "1551095",
+            "1625007",
+            "1293000",
+            "1417023"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48691169"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/91377bcca122a8d44ed75aefd91b09e9.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/6689051d92c7e1053f83331859bf025e.png",
+          "tagId": 0,
+          "simpleDesc": "传统名汤 真材实料",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1281008,
+              "tagId": 127887060,
+              "name": "满折",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1281008,
+          "sellVolume": 4462,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/91377bcca122a8d44ed75aefd91b09e9.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "白果炖鸡汤 280克*3杯",
+          "productPlace": "",
+          "counterPrice": 32.00,
+          "couponPrice": 0,
+          "retailPrice": 32.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/bf3bb9655574ecc7ce7a357fc91d456c.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/de5b98ae57f2c21c8f3880ae770001ef.png",
+          "tagId": 0,
+          "simpleDesc": "武汉风味，热辣细嫩",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1551095,
+              "tagId": 127887063,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1551095,
+          "sellVolume": 23869,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/bf3bb9655574ecc7ce7a357fc91d456c.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "香辣鸭脖 168克",
+          "productPlace": "",
+          "counterPrice": 18.00,
+          "couponPrice": 0,
+          "retailPrice": 12,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/5e3baafffc978e595dcb4234dd0654c2.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/97719f5e6bbca639cdab6b50591c0689.png",
+          "tagId": 0,
+          "simpleDesc": "全新口味，大牌特调绿色汤汁",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "开天辟地价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1625007,
+              "tagId": 127878242,
+              "name": "开天辟地价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1625007,
+          "sellVolume": 1668,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/5e3baafffc978e595dcb4234dd0654c2.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "大牌特调 严选椒香鲜辣小龙虾1KG/盒",
+          "productPlace": "",
+          "counterPrice": 98.00,
+          "couponPrice": 0,
+          "retailPrice": 29.9,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/d8692de28960626837d26da85f513b24.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/88c630ddfad4c98201b08956f528ce4d.png",
+          "tagId": 0,
+          "simpleDesc": "日式风味 鲜嫩大虾",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1293000,
+              "tagId": 127887054,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1293000,
+          "sellVolume": 6870,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/d8692de28960626837d26da85f513b24.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "北海道风味大虾面 61克*6杯",
+          "productPlace": "",
+          "counterPrice": 38.50,
+          "couponPrice": 0,
+          "retailPrice": 35,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/6f8849cd376ea181f977f0ae40f309eb.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/4ca9c69f55a690958527a944821ca5da.png",
+          "tagId": 0,
+          "simpleDesc": "缤纷果干，网红颜值",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1417023,
+              "tagId": 127887052,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1417023,
+          "sellVolume": 26288,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/6f8849cd376ea181f977f0ae40f309eb.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "奇亚籽谷物脆水果燕麦片 800克",
+          "productPlace": "",
+          "counterPrice": 52.00,
+          "couponPrice": 0,
+          "retailPrice": 43.9,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/806d68797aaf63ace9639b20c01feb45.jpg"
+    },
+    {
+      "manuItemIdList": [],
+      "titleSchemeUrl": "http://you.163.com/topic/v1/pub/Azx54lvdgQ.html",
+      "autoItemIdList": [
+        1327000,
+        1630007,
+        1066027,
+        1652031,
+        1006014,
+        1085019,
+        1667023,
+        1306026,
+        1114011,
+        1318002,
+        1667042,
+        1306027,
+        1484014,
+        1566002,
+        3400004,
+        1398016,
+        1586040,
+        1551023,
+        1556005,
+        1565039,
+        1327001,
+        1563002,
+        1657028,
+        1389000,
+        1233001,
+        1621011,
+        1066028,
+        1606002,
+        1625008,
+        1593000,
+        1563003,
+        1673011,
+        1656000,
+        1580028,
+        1664017,
+        1011012,
+        1561007,
+        1683007,
+        1556015,
+        1398015,
+        1672017,
+        1551022,
+        1446031,
+        1586039,
+        3391009,
+        1561013,
+        1317002,
+        1006013,
+        1113019,
+        1579038,
+        1172011,
+        3419050,
+        1667027,
+        1183000,
+        1561008,
+        1116034,
+        1138000,
+        1551074,
+        1667080,
+        1579033,
+        1666072,
+        1672053,
+        1487016,
+        1500022,
+        1553015,
+        1490003,
+        1134066,
+        1656016,
+        1648045,
+        1143016,
+        1487026,
+        1172012,
+        1666023,
+        1457001,
+        1325028,
+        1666070,
+        1681173,
+        1564043,
+        1240005,
+        1589014,
+        1667024,
+        1655005,
+        1603014,
+        1497014,
+        1651004,
+        1572013,
+        1655007,
+        1487030,
+        1487025,
+        1580052,
+        1282031,
+        1651001,
+        1172013,
+        1604005,
+        1655006,
+        1505042,
+        1282000,
+        1657006,
+        1282029,
+        1554022,
+        1605001,
+        1552005,
+        1251050,
+        1686036,
+        1646000,
+        1540006,
+        1664018,
+        1654012,
+        1490004,
+        1664019,
+        1282030,
+        1673035,
+        1533001,
+        1489006,
+        1634001,
+        1654009,
+        1489004,
+        1489005,
+        1569004,
+        1650005,
+        1666022,
+        1655003,
+        1654006,
+        1663058,
+        1603017,
+        1532002,
+        1682040,
+        1552006,
+        1675074,
+        1653008,
+        1580004,
+        1580003,
+        1580001,
+        1580051,
+        1681174,
+        1057031,
+        1235003,
+        1031005,
+        1691003,
+        1606001,
+        1683044,
+        1446032,
+        1531014,
+        3420064,
+        3420065,
+        1561012,
+        1092024,
+        1604016,
+        1048008,
+        1270004,
+        1324027,
+        1569006,
+        1580002
+      ],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "47697591",
+          "materialName": "专题铁粉",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 6,
+          "itemIdList": [
+            "1327000",
+            "1066027",
+            "1652031",
+            "1006014",
+            "1085019",
+            "1667023",
+            "1306026",
+            "1114011"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48637842"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/38253e4bc864ded67fe49a34fcbf70b0.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/02da8bce2fa3a182d398f6a09e8ac2f5.png",
+          "tagId": 0,
+          "simpleDesc": "超强保温升级版，316不锈钢",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1327000,
+              "tagId": 127878223,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1327000,
+          "sellVolume": 1791,
+          "isCouponConflict": true,
+          "colorNum": 4,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/38253e4bc864ded67fe49a34fcbf70b0.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "德式轻量保温杯",
+          "productPlace": "",
+          "counterPrice": 119.00,
+          "couponPrice": 0,
+          "retailPrice": 85,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/08efad9bfe7a79bc5150f0c284556150.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/a7642dcbab7d4b3ec715c18c42d43373.png",
+          "tagId": 0,
+          "simpleDesc": "仅售供应商建议价的1/4",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1066027,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1066027,
+          "sellVolume": 10401,
+          "isCouponConflict": true,
+          "colorNum": 4,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/08efad9bfe7a79bc5150f0c284556150.png",
+          "pieceUnitDesc": "双",
+          "resourcesId": 0,
+          "name": "短筒皮毛一体女士雪地靴",
+          "productPlace": "",
+          "counterPrice": 299.00,
+          "couponPrice": 0,
+          "retailPrice": 199,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/9e47a72a65f166d4b75e61e4609b6375.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/cbbdd7c5622a0eaab31e42247909c959.png",
+          "tagId": 0,
+          "simpleDesc": "经典回炉，百搭利器",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1652031,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1652031,
+          "sellVolume": 8280,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/9e47a72a65f166d4b75e61e4609b6375.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "经典切尔西皮面女靴",
+          "productPlace": "",
+          "counterPrice": 349.00,
+          "couponPrice": 0,
+          "retailPrice": 239,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/b097972db0ed9d5b47fbed0e2dbd1d99.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/480abaed735b79e1768fd9878ef76cc4.png",
+          "tagId": 0,
+          "simpleDesc": "双层子母被，四季皆可使用",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12同价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1006014,
+              "tagId": 127887046,
+              "name": "双12同价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1006014,
+          "sellVolume": 2890,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/b097972db0ed9d5b47fbed0e2dbd1d99.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "升级款双宫茧桑蚕丝被 子母被",
+          "productPlace": "",
+          "counterPrice": 1449.00,
+          "couponPrice": 0,
+          "retailPrice": 1304,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/d391ff6177d8e9a6b29356c15ba97713.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/f2d9d5200b13bdfc9e0ebba388e35e95.png",
+          "tagId": 1001037,
+          "simpleDesc": "32升适中容量 铝质包角 牢固抗摔",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "明星特惠价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1085019,
+              "tagId": 127886022,
+              "name": "明星特惠价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1085019,
+          "sellVolume": 19190,
+          "isCouponConflict": true,
+          "colorNum": 9,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/d391ff6177d8e9a6b29356c15ba97713.png",
+          "tagName": "新秀丽制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "20寸 纯PC“铝框”（非全铝）登机箱",
+          "productPlace": "",
+          "counterPrice": 349.00,
+          "couponPrice": 0,
+          "retailPrice": 299,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e9dfb26714e3678f15267858c33b7813.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/0f0921cbfaf86940a569a59c6c9b121f.png",
+          "tagId": 0,
+          "simpleDesc": "黑色基本百搭，焦糖色时尚大气",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1667023,
+          "sellVolume": 3020,
+          "isCouponConflict": false,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e9dfb26714e3678f15267858c33b7813.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "羊猄粗跟女士短靴",
+          "productPlace": "",
+          "counterPrice": 449.00,
+          "couponPrice": 0,
+          "retailPrice": 449.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/4543237fbea85b3f72e650030958b9ca.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/021188f19de55d4e146dee96b9a0e104.png",
+          "tagId": 1001037,
+          "simpleDesc": "71升容量升级 灵活出行",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1306026,
+          "sellVolume": 19574,
+          "isCouponConflict": false,
+          "colorNum": 9,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/4543237fbea85b3f72e650030958b9ca.png",
+          "tagName": "新秀丽制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "24寸 纯PC“铝框”（非全铝）拉杆箱",
+          "productPlace": "",
+          "counterPrice": 389.00,
+          "couponPrice": 0,
+          "retailPrice": 389.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/a79dafd916015f0257e129df552fe616.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/ff2311b1a436ba4e83b2edc1b6ea49f3.png",
+          "tagId": 1001037,
+          "simpleDesc": "104升大容量 轻便PC减压出行",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1114011,
+          "sellVolume": 5813,
+          "isCouponConflict": false,
+          "colorNum": 9,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/a79dafd916015f0257e129df552fe616.png",
+          "tagName": "新秀丽制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "26寸 纯PC拉链斜纹拉杆箱",
+          "productPlace": "",
+          "counterPrice": 299.00,
+          "couponPrice": 0,
+          "retailPrice": 299.00,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/a13e54e6f22d3407bba3daf269283edc.png"
+    },
+    {
+      "manuItemIdList": [],
+      "titleSchemeUrl": "http://you.163.com/topic/v1/pub/KrlDMhMkWb.html",
+      "autoItemIdList": [
+        1154003,
+        1127007,
+        1225000,
+        1021020,
+        1654005,
+        1129015,
+        1193005,
+        1129016,
+        1006058,
+        1164042,
+        1391001,
+        1657011,
+        1418015,
+        1076004,
+        1322003,
+        1654003,
+        1165064,
+        1006051,
+        1009026,
+        1021021,
+        1653005,
+        1056000,
+        1653006,
+        1621033,
+        1021001,
+        1551029,
+        1462012,
+        1023018,
+        1542005,
+        1655001,
+        1666070,
+        1608002,
+        1023016,
+        1023019,
+        1525018,
+        1021000,
+        1505032,
+        1653001,
+        1655005,
+        1565068,
+        1076003,
+        1655007,
+        1164044,
+        1165062,
+        1487030,
+        1226008,
+        1108004,
+        1023009,
+        1565069,
+        1540016,
+        1655006,
+        1156019,
+        1653000,
+        1588011,
+        1589018,
+        1570003,
+        1269023,
+        1127035,
+        1503000,
+        1511005,
+        1616018,
+        1468024,
+        1023023,
+        1542031,
+        1126009,
+        1128008,
+        1608001,
+        1059000,
+        1116028,
+        1654002,
+        1027000,
+        1438008,
+        1282013,
+        1056002,
+        1189000,
+        1589017,
+        1259027,
+        1135065,
+        1023021,
+        1048007,
+        1459001,
+        1185010,
+        1647004,
+        1487007,
+        1252050,
+        1111009,
+        1542032,
+        1031001,
+        1173005,
+        1620032,
+        1116060,
+        1126014,
+        1164018,
+        1440009,
+        1648002,
+        1149020,
+        1648007,
+        1681177,
+        1653003,
+        1165063,
+        1057031,
+        1164040,
+        1164047,
+        1246000,
+        1046048,
+        1066016,
+        1224001,
+        1448014,
+        1127024,
+        1414004,
+        1116029,
+        1469025,
+        1619041,
+        1679001,
+        1615003,
+        1616017,
+        1116058,
+        1659022,
+        1648000,
+        1125003,
+        1486005,
+        1446054,
+        1446053,
+        1135063,
+        1048008,
+        1135064,
+        1690049,
+        1690050,
+        1153009
+      ],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "47885513",
+          "materialName": "专题日用品更换",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 7,
+          "itemIdList": [
+            "1154003",
+            "1127007",
+            "1225000",
+            "1021020",
+            "1654005",
+            "1129015",
+            "1193005",
+            "1129016"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48690727"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/d9376c059ce15a774199e2cedc5a8d63.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/835612e5c90c335ad6977f84d34f8d23.png",
+          "tagId": 0,
+          "simpleDesc": "999+好评爆款，洁齿又护龈",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1154003,
+              "tagId": 127886008,
+              "name": "双12狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1154003,
+          "sellVolume": 9305,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/d9376c059ce15a774199e2cedc5a8d63.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "全净皓齿变速式声波电动牙刷",
+          "productPlace": "",
+          "counterPrice": 219.00,
+          "couponPrice": 0,
+          "retailPrice": 179,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+          "tagId": 0,
+          "simpleDesc": "累计销量百万，洁齿必备基础款",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1127007,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            },
+            {
+              "itemId": 1127007,
+              "tagId": 127886008,
+              "name": "双12狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1127007,
+          "sellVolume": 39815,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "日式和风声波式电动牙刷（可单买刷头）",
+          "productPlace": "",
+          "counterPrice": 129.00,
+          "couponPrice": 0,
+          "retailPrice": 114,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/b75ce19de5eb7eac87200ad8f2a19e8a.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/5901c66962f8a601f450dd9825b80e73.png",
+          "tagId": 1026000,
+          "simpleDesc": "纯棉袜，黑白两色可选，CK制造商",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 6,
+          "id": 1225000,
+          "sellVolume": 3184,
+          "isCouponConflict": false,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/b75ce19de5eb7eac87200ad8f2a19e8a.png",
+          "tagName": "CK制造商",
+          "pieceUnitDesc": "双",
+          "resourcesId": 0,
+          "name": "97%棉 男式纯色棉质中筒袜",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "couponPrice": 0,
+          "retailPrice": 49.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/b432867921a3f57f3aea007b7a19217b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/1d116324d7d0e90f8cb221ae7a453afb.png",
+          "tagId": 1001018,
+          "simpleDesc": "专业内裤制造商，自由U凸",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 2,
+          "id": 1021020,
+          "sellVolume": 30339,
+          "isCouponConflict": false,
+          "colorNum": 4,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/b432867921a3f57f3aea007b7a19217b.png",
+          "tagName": "Levis制造商",
+          "pieceUnitDesc": "条",
+          "resourcesId": 0,
+          "name": "男式基础平角内裤",
+          "productPlace": "",
+          "counterPrice": 59.00,
+          "couponPrice": 0,
+          "retailPrice": 59.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/826649d50790c8608b6620d8e68d594b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/3767dc4e30cf9934592e0612553b8232.png",
+          "tagId": 0,
+          "simpleDesc": "一双罗纹中筒袜，可以在森系、韩系、法式慵懒风之间自由切换。",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1654005,
+          "sellVolume": 18447,
+          "isCouponConflict": false,
+          "colorNum": 5,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/826649d50790c8608b6620d8e68d594b.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "3双/5双装 女式日系罗纹中筒袜",
+          "productPlace": "",
+          "counterPrice": 36.90,
+          "couponPrice": 0,
+          "retailPrice": 36.90,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/94aa97111e4b53a4ee031196d9829838.jpg",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/cee369eab9cce7b0b5924fe6cbbe545d.png",
+          "tagId": 0,
+          "simpleDesc": "瞬吸亲肤，近0掉毛率",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "囤货专场",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1129015,
+              "tagId": 127887050,
+              "name": "囤货专场",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1129015,
+          "sellVolume": 200656,
+          "isCouponConflict": true,
+          "colorNum": 7,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/94aa97111e4b53a4ee031196d9829838.jpg",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "阿瓦提长绒棉超柔浴巾",
+          "productPlace": "",
+          "counterPrice": 89.00,
+          "couponPrice": 0,
+          "retailPrice": 63.7,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/7dd8360025564712f66c3c84a8edf5f0.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/b461b9d1e307f723e5b25672eebf9b13.png",
+          "tagId": 1033001,
+          "simpleDesc": "基础设计，小胸也能微性感",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "囤货专场",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1193005,
+              "tagId": 127887050,
+              "name": "囤货专场",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1193005,
+          "sellVolume": 8929,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/7dd8360025564712f66c3c84a8edf5f0.png",
+          "tagName": "Jockey制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "女式自然无缝bra短吊带",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "couponPrice": 0,
+          "retailPrice": 38.7,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/f32576e6da314f203982951cd2f65f0a.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/d3571a8e36904b030b24d7c44e36c88e.png",
+          "tagId": 0,
+          "simpleDesc": "瞬间吸水，亲肤近0掉毛率。",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1129016,
+          "sellVolume": 162329,
+          "isCouponConflict": false,
+          "colorNum": 7,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/f32576e6da314f203982951cd2f65f0a.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "阿瓦提长绒棉超柔毛巾",
+          "productPlace": "",
+          "counterPrice": 23.00,
+          "couponPrice": 0,
+          "retailPrice": 23.00,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/92aefb1aaefff5f50641f0f7997112ee.jpg"
+    },
+    {
+      "manuItemIdList": [],
+      "titleSchemeUrl": "https://you.163.com/topic/v1/pub/wnoDbBMBLw.html",
+      "autoItemIdList": [
+        1622007,
+        1305017,
+        1624001,
+        1451010,
+        1458000,
+        1149000,
+        1401005,
+        1402002,
+        1601000,
+        1553041,
+        1134051,
+        1623004,
+        1189013,
+        1115048,
+        1076010,
+        1671002,
+        1019000,
+        1459004,
+        1506047,
+        1623006,
+        1548002,
+        1667018,
+        1242000,
+        1435002,
+        3393000,
+        1036003,
+        1436030,
+        1037012,
+        1134016,
+        3386001,
+        1481021,
+        1500011,
+        1023009,
+        1621034,
+        1584007,
+        1134015,
+        1539003,
+        1503017,
+        3407022,
+        1023023,
+        1667019,
+        1506033,
+        1189000,
+        1127041,
+        1621035,
+        1468003,
+        1226006,
+        1194005,
+        1413002,
+        1458001,
+        1046012,
+        1682030
+      ],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "47719874",
+          "materialName": "专题按摩仪器",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 8,
+          "itemIdList": [
+            "1622007",
+            "1305017",
+            "1624001",
+            "1451010",
+            "1458000",
+            "1149000",
+            "1401005",
+            "1402002"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48691544"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/0592e36a93fddb5db10cd282ff602ca8.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/533eaa23f910d7ed0d9d0acde60013b2.png",
+          "tagId": 0,
+          "simpleDesc": "网易智造按摩椅销售冠军",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1622007,
+              "tagId": 127886057,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1622007,
+          "sellVolume": 149,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/0592e36a93fddb5db10cd282ff602ca8.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造太空舱按摩大师椅",
+          "productPlace": "",
+          "counterPrice": 11999.00,
+          "couponPrice": 0,
+          "retailPrice": 9599,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/cbd137c383bef53a3f39ba7558ef872b.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/262e611e64238646ee1da0293eaabe7d.png",
+          "tagId": 0,
+          "simpleDesc": "选款师力荐 专属私人按摩师",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "限时购",
+          "limitedFlag": 203,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1305017,
+              "tagId": 127887044,
+              "name": "限时购",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1305017,
+          "sellVolume": 389,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/cbd137c383bef53a3f39ba7558ef872b.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "多功能私享按摩椅",
+          "productPlace": "",
+          "counterPrice": 2299.00,
+          "couponPrice": 0,
+          "retailPrice": 1839,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/823652e902ffeb49f50381b93e7e0be0.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png",
+          "tagId": 0,
+          "simpleDesc": "肩颈部位全方位按摩放松",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "三石福利价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1624001,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            },
+            {
+              "itemId": 1624001,
+              "tagId": 127878234,
+              "name": "三石福利价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1624001,
+          "sellVolume": 7306,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/823652e902ffeb49f50381b93e7e0be0.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造3D揉捏按摩肩带",
+          "productPlace": "",
+          "counterPrice": 449.00,
+          "couponPrice": 0,
+          "retailPrice": 359,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/c7b29180b9602593004a9c24eba41c0c.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/ec556886137cb0e2ad633c970abdc42c.png",
+          "tagId": 0,
+          "simpleDesc": "由头到脚享受360度舒适体验",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1451010,
+              "tagId": 127886057,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1451010,
+          "sellVolume": 372,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/c7b29180b9602593004a9c24eba41c0c.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造智能感体按摩椅",
+          "productPlace": "",
+          "counterPrice": 8999.00,
+          "couponPrice": 0,
+          "retailPrice": 6725,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/944289bc6953d9a40c8019958a1b18f9.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/a07c82f8b26a4ed42b1d697eb9ea418f.png",
+          "tagId": 1080000,
+          "simpleDesc": "天然成分足贴 祛除湿气",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "囤货专场",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1458000,
+              "tagId": 127887050,
+              "name": "囤货专场",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1458000,
+          "sellVolume": 46778,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/944289bc6953d9a40c8019958a1b18f9.png",
+          "tagName": "海外制造商",
+          "pieceUnitDesc": "盒",
+          "resourcesId": 0,
+          "name": "日本制造 天然草本睡眠足贴 5味可选",
+          "productPlace": "日本制造",
+          "counterPrice": 69.00,
+          "couponPrice": 0,
+          "retailPrice": 58,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/270a4ef50ee137a97cba0baf00e1bc6c.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/c5169878eeb47740aaba2fd6e1a36ecf.png",
+          "tagId": 0,
+          "simpleDesc": "AAA抗菌枕套 SGS全程监控",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "双12同价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1149000,
+              "tagId": 9400549,
+              "name": "爆品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 0
+            },
+            {
+              "itemId": 1149000,
+              "tagId": 127887035,
+              "name": "双12同价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1149000,
+          "sellVolume": 7359,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/270a4ef50ee137a97cba0baf00e1bc6c.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "泰国制造 天然乳胶枕 护颈优眠 升级抗菌",
+          "productPlace": "泰国制造",
+          "counterPrice": 199.00,
+          "couponPrice": 0,
+          "retailPrice": 179,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/421c76ce37141610c8a2ac5692350f11.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/ad491fb41d3c63eed6713e2dd5343fe2.png",
+          "tagId": 0,
+          "simpleDesc": "拳头机芯，立体按摩，都市人的减压利器",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "限时购",
+          "limitedFlag": 203,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1401005,
+              "tagId": 127887034,
+              "name": "限时购",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1401005,
+          "sellVolume": 32691,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/421c76ce37141610c8a2ac5692350f11.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造减压按摩腰靠",
+          "productPlace": "",
+          "counterPrice": 269.00,
+          "couponPrice": 0,
+          "retailPrice": 209,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/71c61e1c7b3570cca6a112dce438c917.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/f339438d46b84d8b55b3c61e043e6eca.png",
+          "tagId": 0,
+          "simpleDesc": "游走揉捏，仿真推拿，坐享一身轻松",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 0,
+              "tagId": 0,
+              "name": "券",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 5
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1402002,
+          "sellVolume": 10426,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/71c61e1c7b3570cca6a112dce438c917.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造懒人按摩坐垫",
+          "productPlace": "",
+          "counterPrice": 599.00,
+          "couponPrice": 0,
+          "retailPrice": 599.00,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/ade892cd3d0577f8d2cf5e3d7685575d.jpg"
+    },
+    {
+      "manuItemIdList": [
+        3446033,
+        1667007,
+        1634003,
+        3441151,
+        3398008,
+        3454010
+      ],
+      "titleSchemeUrl": "https://m.you.163.com/item/newItemRank&from=1",
+      "autoItemIdList": [],
+      "extra": {
+        "resource": {
+          "materialType": "类目banner位",
+          "materialId": "48563262",
+          "materialName": "新品榜",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 9,
+          "itemIdList": [
+            "3446033",
+            "1667007",
+            "1634003",
+            "3441151",
+            "3398008",
+            "3454010"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48638481"
+        },
+        "modelType": 1
+      },
+      "itemList": [
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e6f2eb7411de266fe4cb99c5fadcc3da.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/675dbc5080b33299d5b28a2009fc5d0a.png",
+          "tagId": 0,
+          "simpleDesc": "悠长饱满，清香软糯",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 0,
+              "tagId": 0,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3446033,
+              "tagId": 127887054,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3446033,
+          "sellVolume": 417,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e6f2eb7411de266fe4cb99c5fadcc3da.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "长粒香大米 5千克*2袋",
+          "productPlace": "",
+          "counterPrice": 98.00,
+          "couponPrice": 0,
+          "retailPrice": 78,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/5800035cda4787b4bf8d8da8c151bdc2.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/7060eca994752779b938aa7804a75e86.png",
+          "tagId": 0,
+          "simpleDesc": "乌克兰进口原油，煎炸炒烤都适合",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "美食狂欢",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1667007,
+              "tagId": 127887054,
+              "name": "美食狂欢",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1667007,
+          "sellVolume": 11682,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/5800035cda4787b4bf8d8da8c151bdc2.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "压榨葵花籽油 5升",
+          "productPlace": "",
+          "counterPrice": 68.00,
+          "couponPrice": 0,
+          "retailPrice": 58,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/279203bf34f43c142468d4412dea0a12.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/e1f6e3d6a799018cc430fb3c90f1c57a.png",
+          "tagId": 0,
+          "simpleDesc": "白鹅绒与狐狸毛领的组合，做个向阳人",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": false,
+          "itemTagList": [
+            {
+              "itemId": 1634003,
+              "tagId": 127887026,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 1634003,
+          "sellVolume": 2401,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/279203bf34f43c142468d4412dea0a12.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "男式毛领大鹅绒羽绒服",
+          "productPlace": "",
+          "counterPrice": 1299.00,
+          "couponPrice": 0,
+          "retailPrice": 1025,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/053cec0f68857bb524fa799855537456.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/0cdf3a0ba315fd4ecea03010026adfae.png",
+          "tagId": 0,
+          "simpleDesc": "限定牧场奶源，安心囤货套装",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3441151,
+          "sellVolume": 1420,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/053cec0f68857bb524fa799855537456.png",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "纯牛奶12盒*2提+酸牛奶12盒*2提",
+          "productPlace": "",
+          "counterPrice": 176.00,
+          "couponPrice": 0,
+          "retailPrice": 176.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/e2d91658ed41ded7f073fd92718f11d3.png",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/748372e0e7b7981d0eebd06ba82f2876.png",
+          "tagId": 1080000,
+          "simpleDesc": "8000毫克小分子深海鱼胶原蛋白肽，每天仅用1/3杯奶茶钱",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": false,
+          "itemTagList": [],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "id": 3398008,
+          "sellVolume": 1521,
+          "isCouponConflict": false,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/e2d91658ed41ded7f073fd92718f11d3.png",
+          "tagName": "海外制造商",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "韩国制造 胶原蛋白液 50毫升*10瓶",
+          "productPlace": "韩国制造",
+          "counterPrice": 199.00,
+          "couponPrice": 0,
+          "retailPrice": 199.00,
+          "status": 2
+        },
+        {
+          "scenePicUrl": "http://yanxuan.nosdn.127.net/5b874370ef8f63ee41865bbee4de2890.jpg",
+          "listPicUrl": "http://yanxuan.nosdn.127.net/21712dc8c9b39049c0731613905ca56a.png",
+          "tagId": 0,
+          "simpleDesc": "3秒速热 暖遍全身",
+          "primarySkuPreSellPrice": 362,
+          "promTag": "心跳价",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 0,
+              "tagId": 0,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3454010,
+              "tagId": 127887026,
+              "name": "心跳价",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 1,
+          "pieceNum": 0,
+          "id": 3454010,
+          "sellVolume": 1363,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "http://yanxuan.nosdn.127.net/5b874370ef8f63ee41865bbee4de2890.jpg",
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "name": "网易智造PTC家用智能暖风机（福袋装）",
+          "productPlace": "",
+          "counterPrice": 499.00,
+          "couponPrice": 0,
+          "retailPrice": 362,
+          "status": 2
+        }
+      ],
+      "title": "",
+      "titlePicUrl": "https://yanxuan.nosdn.127.net/23e35566075683ba8943d47a753b867f.jpg"
+    }
+  ],
+  "tagList": [
+    {
+      "floorPrice": 9.90,
+      "picUrl": "http://yanxuan.nosdn.127.net/802ff06dd3ef161db046eeb8db6cb4be.jpg",
+      "newOnShelf": true,
+      "webIndexVerticalPicUrl": "http://yanxuan.nosdn.127.net/802ff06dd3ef161db046eeb8db6cb4be.jpg",
+      "extra": {
+        "materialType": "制造商id",
+        "materialId": "45253056",
+        "materialName": "海外制造商",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 1,
+        "crmUserGroupId": "0",
+        "taskId": "45669807"
+      },
+      "simpleDesc": "严选海外团队，寻访日韩欧美等十几个国家，\n从打样到成型，把关数十道工序，\n只为给您带来海外直供的超值好物。",
+      "name": "海外制造商",
+      "appListPicUrl": "http://yanxuan.nosdn.127.net/c3c8bec4eac6f8a4aa6ddca2d9842f70.png",
+      "id": 1080000
+    },
+    {
+      "floorPrice": 25.00,
+      "picUrl": "http://yanxuan.nosdn.127.net/c1e97be1b9730360c9c228b6a6448bca.png",
+      "newOnShelf": false,
+      "webIndexVerticalPicUrl": "http://yanxuan.nosdn.127.net/c1e97be1b9730360c9c228b6a6448bca.png",
+      "extra": {
+        "materialType": "制造商id",
+        "materialId": "45253058",
+        "materialName": "CK制造商",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 2,
+        "crmUserGroupId": "0",
+        "taskId": "45669808"
+      },
+      "simpleDesc": "严选寻访Calvin Klein品牌的制造商，\n深入世界领带第一生产地，设计与品质并重，\n致力于给消费者带来优质典雅的服饰用品。",
+      "name": "CK制造商",
+      "appListPicUrl": "http://yanxuan.nosdn.127.net/61f5523c9988ae6720da4c3c81a37386.jpg",
+      "id": 1026000
+    },
+    {
+      "floorPrice": 34.90,
+      "picUrl": "http://yanxuan.nosdn.127.net/e550a44d2a7a68ed38e6cfd380e514aa.png",
+      "newOnShelf": false,
+      "webIndexVerticalPicUrl": "http://yanxuan.nosdn.127.net/e550a44d2a7a68ed38e6cfd380e514aa.png",
+      "extra": {
+        "materialType": "制造商id",
+        "materialId": "45253060",
+        "materialName": "新秀丽制造商",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 3,
+        "crmUserGroupId": "0",
+        "taskId": "46223230"
+      },
+      "simpleDesc": "严选为制作品质与颜值兼具的箱包，\n选定新秀丽、CK、Ricardo等品牌合作的制造商，\n拥有国内先进流水线20余条，实力保障品质。",
+      "name": "新秀丽制造商",
+      "appListPicUrl": "http://yanxuan.nosdn.127.net/42f994296d3393bcb4d54b7db13db5eb.png",
+      "id": 1001037
+    },
+    {
+      "floorPrice": 35.00,
+      "picUrl": "http://yanxuan.nosdn.127.net/053ecfefd033a9acd2cb95483e14fcb6.jpg",
+      "newOnShelf": false,
+      "webIndexVerticalPicUrl": "http://yanxuan.nosdn.127.net/053ecfefd033a9acd2cb95483e14fcb6.jpg",
+      "extra": {
+        "materialType": "制造商id",
+        "materialId": "45272774",
+        "materialName": "MUJI制造商",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 4,
+        "crmUserGroupId": "0",
+        "taskId": "48287067"
+      },
+      "simpleDesc": "严选精选了MUJI制造商和生产原料，\n用几乎零利润的价格，剔除品牌溢价，\n让用户享受原品牌的品质生活。",
+      "name": "MUJI制造商",
+      "appListPicUrl": "http://yanxuan.nosdn.127.net/3743ffe302c32e167fd65179ac109710.jpg",
+      "id": 1001000
+    }
+  ],
+  "bigPromotionModule": {
+    "backgroundUrl": "https://yanxuan.nosdn.127.net/15441052607608443.png",
+    "bigPromotionList": [
+      {
+        "data": {
+          "contents": [
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441052762338444.gif",
+              "schemeUrl": "https://act.you.163.com/act/pub/35lg3M4T9f.html"
+            }
+          ],
+          "width": "1125",
+          "height": "496"
+        },
+        "moduleKey": "YX_M_3D9F9D"
+      },
+      {
+        "data": {
+          "contents": [
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441053020698445.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/2Xu41pjyGt.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441053233908456.png",
+              "schemeUrl": "https://m.you.163.com/item/saleRank"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441053270748457.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/WWK5JewfVF.html"
+            }
+          ],
+          "width": "1125",
+          "height": "588"
+        },
+        "moduleKey": "YX_M_C1CFE1"
+      },
+      {
+        "data": {
+          "contents": [
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441054004298458.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/RhqJBoh4V0.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441054036378459.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/GVuq3AFLY9.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441054077528460.png",
+              "schemeUrl": "https://you.163.com/flashSale/index#toFloor161"
+            }
+          ],
+          "width": "1125",
+          "height": "375"
+        },
+        "moduleKey": "YX_M_23178C"
+      },
+      {
+        "data": {
+          "contents": [
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055164938461.png",
+              "schemeUrl": "https://m.you.163.com/item/newItemRank"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055218968462.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/rQ2Sz2CjIL.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055263078463.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/7u7fOvnPfi.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055312858464.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/n6ADBuOJGu.html"
+            }
+          ],
+          "width": "1125",
+          "height": "368"
+        },
+        "moduleKey": "YX_M_DD9CFA"
+      },
+      {
+        "data": {
+          "contents": [
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055467338465.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/zfy87iw6d9.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055508548466.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/OFFPVwM6Pf.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055543298467.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/LzjuN8ZxHR.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055595038468.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/q477cjfnVr.html"
+            }
+          ],
+          "width": "1125",
+          "height": "368"
+        },
+        "moduleKey": "YX_M_DD9CFA"
+      },
+      {
+        "data": {
+          "contents": [
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441055977628469.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/UDfpJ7mZaW.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441056007578470.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/HhrcRoBw1h.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441056037988471.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/sFXiazLfLY.html"
+            },
+            {
+              "picUrl": "https://yanxuan.nosdn.127.net/15441056078408472.png",
+              "schemeUrl": "https://act.you.163.com/act/pub/z1yj9zvWuB.html"
+            }
+          ],
+          "width": "1125",
+          "height": "368"
+        },
+        "moduleKey": "YX_M_DD9CFA"
+      }
+    ]
   },
-  {
-    "tabId": 5,
-    "tabName": "上新",
-    "tabType": 0,
-    "defaultShow": false,
-    "linkUrl": null,
-    "linkType": null
+  "policyDescList": [
+    {
+      "icon": "http://yanxuan.nosdn.127.net/cae45612b8aae577d8bd73338e2fc02c.png",
+      "schemeUrl": "",
+      "desc": "网易自营品牌"
+    },
+    {
+      "icon": "http://yanxuan.nosdn.127.net/cae45612b8aae577d8bd73338e2fc02c.png",
+      "schemeUrl": "",
+      "desc": "30天无忧退货"
+    },
+    {
+      "icon": "http://yanxuan.nosdn.127.net/cae45612b8aae577d8bd73338e2fc02c.png",
+      "schemeUrl": "",
+      "desc": "48小时快速退款"
+    }
+  ],
+  "popularItemList": [
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/489d9ee22b95c14044592dcc43ae3aa2.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/06e5818658707bc182acabe92cae3d34.png",
+      "tagId": 0,
+      "simpleDesc": "环保取材，安全天然更亲肤",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "双12同价",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 1415008,
+          "tagId": 127887040,
+          "name": "双12同价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 5,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "45581452",
+          "itemId": "1415008",
+          "materialName": "5提30包 谷风一木软抽面巾纸囤货装",
+          "taskType": 2,
+          "crmUserGroupName": "APP新用户版首页用户分组",
+          "resourcesId": 1,
+          "itemIdList": [
+            "1415008"
+          ],
+          "crmUserGroupId": "20180920212350432",
+          "taskId": "48400368"
+        },
+        "modelType": 1
+      },
+      "id": 1415008,
+      "sellVolume": 7892,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/489d9ee22b95c14044592dcc43ae3aa2.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "30包 谷风一木软抽面巾纸囤货装",
+      "productPlace": "",
+      "counterPrice": 75.00,
+      "couponPrice": 0,
+      "retailPrice": 69.4,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/7ee6fafe787e7b26498a5f49cf2b937b.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/fb53b989d34b32366f138b5e563ccd0a.png",
+      "tagId": 0,
+      "simpleDesc": "热销5万+条，一条被子过冬",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "心跳价",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 1630007,
+          "tagId": 127886057,
+          "name": "心跳价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "45445060",
+          "itemId": "1630007",
+          "materialName": "升级款95%白鹅绒秋冬加厚羽绒被",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 2,
+          "itemIdList": [
+            "1630007"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "7756590"
+        },
+        "modelType": 1
+      },
+      "id": 1630007,
+      "sellVolume": 13193,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/7ee6fafe787e7b26498a5f49cf2b937b.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "升级款95%白鹅绒秋冬加厚羽绒被",
+      "productPlace": "",
+      "counterPrice": 1149.00,
+      "couponPrice": 0,
+      "retailPrice": 1028,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/4402b7922e250a15726acbbef12c84fa.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/1e5203ccf607c0136f06af2b09c15e34.png",
+      "tagId": 0,
+      "simpleDesc": "可平烫可挂烫，易便携易收纳",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "三石福利价",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 1505029,
+          "tagId": 127878234,
+          "name": "三石福利价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "9795697",
+          "itemId": "1505029",
+          "materialName": "便携手持挂烫机",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 3,
+          "itemIdList": [
+            "1505029"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48607996"
+        },
+        "modelType": 1
+      },
+      "id": 1505029,
+      "sellVolume": 18677,
+      "isCouponConflict": true,
+      "colorNum": 0,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/4402b7922e250a15726acbbef12c84fa.png",
+      "pieceUnitDesc": "件",
+      "resourcesId": 0,
+      "name": "便携手持挂烫机",
+      "productPlace": "",
+      "counterPrice": 119.00,
+      "couponPrice": 0,
+      "retailPrice": 95,
+      "status": 2
+    },
+    {
+      "scenePicUrl": "http://yanxuan.nosdn.127.net/b037b7a7d22734fd72768680f5dcb516.png",
+      "listPicUrl": "http://yanxuan.nosdn.127.net/64897b33fc2c1f2582921ca22a64149c.png",
+      "tagId": 0,
+      "simpleDesc": "澳洲羊毛，360°的温暖透气",
+      "primarySkuPreSellPrice": 0,
+      "promTag": "心跳价",
+      "limitedFlag": 204,
+      "newItemFlag": false,
+      "itemTagList": [
+        {
+          "itemId": 1066028,
+          "tagId": 127887026,
+          "name": "心跳价",
+          "subType": 0,
+          "forbidJump": false,
+          "type": 2
+        }
+      ],
+      "primarySkuPreSellStatus": 0,
+      "pieceNum": 0,
+      "extra": {
+        "resource": {
+          "materialType": "商品id",
+          "materialId": "8281230",
+          "itemId": "1066028",
+          "materialName": "中筒皮毛一体雪地靴",
+          "taskType": 1,
+          "crmUserGroupName": "无分组",
+          "resourcesId": 4,
+          "itemIdList": [
+            "1066028"
+          ],
+          "crmUserGroupId": "0",
+          "taskId": "48016569"
+        },
+        "modelType": 1
+      },
+      "id": 1066028,
+      "sellVolume": 20249,
+      "isCouponConflict": true,
+      "colorNum": 4,
+      "primaryPicUrl": "http://yanxuan.nosdn.127.net/b037b7a7d22734fd72768680f5dcb516.png",
+      "pieceUnitDesc": "双",
+      "resourcesId": 0,
+      "name": "中筒皮毛一体雪地靴",
+      "productPlace": "",
+      "counterPrice": 359.00,
+      "couponPrice": 0,
+      "retailPrice": 229,
+      "status": 2
+    }
+  ],
+  "categoryHotSellModule": {
+    "titleTargetUrl": "",
+    "categoryList": [
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/e7b3e95a03560f65fee9da6f8dd8ebde.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1566003",
+              "1566001",
+              "1165015",
+              "1624010",
+              "1634003",
+              "1164006",
+              "1623012",
+              "1672005",
+              "1550014",
+              "1673003",
+              "1252048",
+              "1551024",
+              "1277002",
+              "1617021",
+              "1563002",
+              "1565039",
+              "1586017",
+              "1556005",
+              "1600014",
+              "1566002",
+              "3444014",
+              "1551018",
+              "1593000",
+              "1561007",
+              "1634010",
+              "1551023",
+              "1556015",
+              "1570007",
+              "1580026"
+            ],
+            "categoryName": "服装",
+            "categoryId": "1010000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1566003,
+            "picUrl": "http://yanxuan.nosdn.127.net/e7b3e95a03560f65fee9da6f8dd8ebde.png"
+          },
+          {
+            "itemId": 1566001,
+            "picUrl": "http://yanxuan.nosdn.127.net/6c4e7cd4e462f4de55bb050f612f8c4a.png"
+          },
+          {
+            "itemId": 1165015,
+            "picUrl": "http://yanxuan.nosdn.127.net/f319c6837f5d266082da494045ffecac.png"
+          },
+          {
+            "itemId": 1624010,
+            "picUrl": "http://yanxuan.nosdn.127.net/4bd683266bdb366de0e28128ea6690bc.png"
+          },
+          {
+            "itemId": 1634003,
+            "picUrl": "http://yanxuan.nosdn.127.net/e1f6e3d6a799018cc430fb3c90f1c57a.png"
+          },
+          {
+            "itemId": 1164006,
+            "picUrl": "http://yanxuan.nosdn.127.net/71756214229fd21f2807c7aca4f6799b.png"
+          },
+          {
+            "itemId": 1623012,
+            "picUrl": "http://yanxuan.nosdn.127.net/60a27485a068170e3eb7d39cc8fae407.png"
+          },
+          {
+            "itemId": 1672005,
+            "picUrl": "http://yanxuan.nosdn.127.net/3942af358f8d2664df11edb3e20bb2ec.png"
+          },
+          {
+            "itemId": 1550014,
+            "picUrl": "http://yanxuan.nosdn.127.net/77b7e8586397dc27613e6c5c6da7a85a.png"
+          },
+          {
+            "itemId": 1673003,
+            "picUrl": "http://yanxuan.nosdn.127.net/78ea7ea8e35ef016a9000c8c6c12ad92.png"
+          },
+          {
+            "itemId": 1252048,
+            "picUrl": "http://yanxuan.nosdn.127.net/7562a7cbfc293477544dbafd6b3caabe.png"
+          },
+          {
+            "itemId": 1551024,
+            "picUrl": "http://yanxuan.nosdn.127.net/f4bb85a7975f10d2809693e13cd6b091.png"
+          },
+          {
+            "itemId": 1277002,
+            "picUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png"
+          },
+          {
+            "itemId": 1617021,
+            "picUrl": "http://yanxuan.nosdn.127.net/88fd9474b91cf4ebef109b29f9b26de4.png"
+          },
+          {
+            "itemId": 1563002,
+            "picUrl": "http://yanxuan.nosdn.127.net/033b4d29df031af03772f539e515cf7f.png"
+          },
+          {
+            "itemId": 1565039,
+            "picUrl": "http://yanxuan.nosdn.127.net/abf8da82c5363f6b31bfdc2de8caa496.png"
+          },
+          {
+            "itemId": 1586017,
+            "picUrl": "http://yanxuan.nosdn.127.net/89c29622bbd4225fb2afb6aed48d7cd6.png"
+          },
+          {
+            "itemId": 1556005,
+            "picUrl": "http://yanxuan.nosdn.127.net/de34d4d8407709f2edd88597d66fcfcb.png"
+          },
+          {
+            "itemId": 1600014,
+            "picUrl": "http://yanxuan.nosdn.127.net/caeecaf52828519f3927ced2a23c23f6.png"
+          },
+          {
+            "itemId": 1566002,
+            "picUrl": "http://yanxuan.nosdn.127.net/98c0badf8731a87aa9ca765b2f8c33c8.png"
+          },
+          {
+            "itemId": 3444014,
+            "picUrl": "http://yanxuan.nosdn.127.net/424c2f57c40284edfeaa991e0e2e23de.png"
+          },
+          {
+            "itemId": 1551018,
+            "picUrl": "http://yanxuan.nosdn.127.net/ee699dd4ff2c36927d994ee29f9337f0.png"
+          },
+          {
+            "itemId": 1593000,
+            "picUrl": "http://yanxuan.nosdn.127.net/81dee42a1a1b768377defa6ccd8fb934.png"
+          },
+          {
+            "itemId": 1561007,
+            "picUrl": "http://yanxuan.nosdn.127.net/6f0e1e8bd1513eb0e46e8bb3ec71902a.png"
+          },
+          {
+            "itemId": 1634010,
+            "picUrl": "http://yanxuan.nosdn.127.net/3f4f0303dc8ef6aa0095749597054c26.png"
+          },
+          {
+            "itemId": 1551023,
+            "picUrl": "http://yanxuan.nosdn.127.net/0199327973d85605f806690317a7eac5.png"
+          },
+          {
+            "itemId": 1556015,
+            "picUrl": "http://yanxuan.nosdn.127.net/2a06950f406ba88cce3701f2848cc5ff.png"
+          },
+          {
+            "itemId": 1570007,
+            "picUrl": "http://yanxuan.nosdn.127.net/f29a00eb6c5e84ecdaa43d04467d43e1.png"
+          },
+          {
+            "itemId": 1580026,
+            "picUrl": "http://yanxuan.nosdn.127.net/dbb3bb2b4343d75bc8ba348609ca6bcd.png"
+          }
+        ],
+        "categoryName": "服装榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1010000"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/9f3c89c8b98fb06968c67edb12a195cf.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1636009",
+              "1630007",
+              "1110003",
+              "1193014",
+              "1305017",
+              "1649026",
+              "1006014",
+              "1318002",
+              "3423001",
+              "1658023",
+              "1622007",
+              "1108008",
+              "1006007",
+              "1658017",
+              "3406013",
+              "1562000",
+              "1009024",
+              "1369013",
+              "1451010",
+              "1149000",
+              "1104006",
+              "1127003",
+              "1365002",
+              "1506008",
+              "1672002",
+              "1485009",
+              "1506045",
+              "1213001",
+              "1116033",
+              "1602000"
+            ],
+            "categoryName": "居家",
+            "categoryId": "1005000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1636009,
+            "picUrl": "http://yanxuan.nosdn.127.net/9f3c89c8b98fb06968c67edb12a195cf.png"
+          },
+          {
+            "itemId": 1630007,
+            "picUrl": "http://yanxuan.nosdn.127.net/fb53b989d34b32366f138b5e563ccd0a.png"
+          },
+          {
+            "itemId": 1110003,
+            "picUrl": "http://yanxuan.nosdn.127.net/2eb0624b89d2cce1a5fb13187a0c10d8.jpg"
+          },
+          {
+            "itemId": 1193014,
+            "picUrl": "http://yanxuan.nosdn.127.net/d85453ca5b9e6ff24cde180504f4c93e.png"
+          },
+          {
+            "itemId": 1305017,
+            "picUrl": "http://yanxuan.nosdn.127.net/262e611e64238646ee1da0293eaabe7d.png"
+          },
+          {
+            "itemId": 1649026,
+            "picUrl": "http://yanxuan.nosdn.127.net/f3e7c097d9f0682bb9311a4f94e0448e.png"
+          },
+          {
+            "itemId": 1006014,
+            "picUrl": "http://yanxuan.nosdn.127.net/480abaed735b79e1768fd9878ef76cc4.png"
+          },
+          {
+            "itemId": 1318002,
+            "picUrl": "http://yanxuan.nosdn.127.net/d78a90f7f496656b79e4559935031958.png"
+          },
+          {
+            "itemId": 3423001,
+            "picUrl": "http://yanxuan.nosdn.127.net/b6bda0140e41f8f96a44b9a85190ebf3.png"
+          },
+          {
+            "itemId": 1658023,
+            "picUrl": "http://yanxuan.nosdn.127.net/7cdbf9f9aa9ab069a2d8b70e0d25df5d.png"
+          },
+          {
+            "itemId": 1622007,
+            "picUrl": "http://yanxuan.nosdn.127.net/533eaa23f910d7ed0d9d0acde60013b2.png"
+          },
+          {
+            "itemId": 1108008,
+            "picUrl": "http://yanxuan.nosdn.127.net/855a0c57ab058ee6c41c1b11a6e594d4.png"
+          },
+          {
+            "itemId": 1006007,
+            "picUrl": "http://yanxuan.nosdn.127.net/f6aa96e6fa8144d997772877e15ae92a.png"
+          },
+          {
+            "itemId": 1658017,
+            "picUrl": "http://yanxuan.nosdn.127.net/2423285051de9cc7a333c0b737ea3ee1.png"
+          },
+          {
+            "itemId": 3406013,
+            "picUrl": "http://yanxuan.nosdn.127.net/2ff4c3a1227a5f08f917e2318fe720f6.png"
+          },
+          {
+            "itemId": 1562000,
+            "picUrl": "http://yanxuan.nosdn.127.net/e53f8d7e96bb57c573bd335df2855ec9.png"
+          },
+          {
+            "itemId": 1009024,
+            "picUrl": "http://yanxuan.nosdn.127.net/2522d76d6938cb3306bd41881ad9bc3f.png"
+          },
+          {
+            "itemId": 1369013,
+            "picUrl": "http://yanxuan.nosdn.127.net/a70383508d01b11e3a8aac294e83a2bd.png"
+          },
+          {
+            "itemId": 1451010,
+            "picUrl": "http://yanxuan.nosdn.127.net/ec556886137cb0e2ad633c970abdc42c.png"
+          },
+          {
+            "itemId": 1149000,
+            "picUrl": "http://yanxuan.nosdn.127.net/c5169878eeb47740aaba2fd6e1a36ecf.png"
+          },
+          {
+            "itemId": 1104006,
+            "picUrl": "http://yanxuan.nosdn.127.net/59620279f1819daae4430fb3e2f6384f.png"
+          },
+          {
+            "itemId": 1127003,
+            "picUrl": "http://yanxuan.nosdn.127.net/da9c2255909d0d1fe5cabff6d93c03db.png"
+          },
+          {
+            "itemId": 1365002,
+            "picUrl": "http://yanxuan.nosdn.127.net/5702e52afbd195e9000a63ff2f3e58c6.png"
+          },
+          {
+            "itemId": 1506008,
+            "picUrl": "http://yanxuan.nosdn.127.net/be88893e0b86d926f30b2dc2a03073f3.png"
+          },
+          {
+            "itemId": 1672002,
+            "picUrl": "http://yanxuan.nosdn.127.net/81114023680fa61b92c21c7f42ae98c7.png"
+          },
+          {
+            "itemId": 1485009,
+            "picUrl": "http://yanxuan.nosdn.127.net/87c6b8bb0a58b0d47918912c95279736.png"
+          },
+          {
+            "itemId": 1506045,
+            "picUrl": "http://yanxuan.nosdn.127.net/bf42027b16a3fe26817334986579b237.png"
+          },
+          {
+            "itemId": 1213001,
+            "picUrl": "http://yanxuan.nosdn.127.net/cd81346a37670f9d4dd48597034e7b58.png"
+          },
+          {
+            "itemId": 1116033,
+            "picUrl": "http://yanxuan.nosdn.127.net/5316edad774df95d0e350f90e60e211c.png"
+          },
+          {
+            "itemId": 1602000,
+            "picUrl": "http://yanxuan.nosdn.127.net/0fd986c542d483294ab89e70650c9f5f.png"
+          }
+        ],
+        "categoryName": "居家榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005000"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/89ced507dfebe7bded441a67a961adaf.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1685000",
+              "1066027",
+              "1652031",
+              "1306026",
+              "3408071",
+              "1306027",
+              "1066028",
+              "1672010",
+              "1085019",
+              "1664001",
+              "1691008",
+              "1667023",
+              "1667068",
+              "1659002",
+              "1114011",
+              "1659003",
+              "1134004",
+              "1156006",
+              "1240001",
+              "1662049",
+              "1197019",
+              "1673011",
+              "1686031",
+              "3380007",
+              "1225000",
+              "1260037",
+              "1663045",
+              "1659006",
+              "1672050",
+              "1655011"
+            ],
+            "categoryName": "鞋包配饰",
+            "categoryId": "1008000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1685000,
+            "picUrl": "http://yanxuan.nosdn.127.net/89ced507dfebe7bded441a67a961adaf.png"
+          },
+          {
+            "itemId": 1066027,
+            "picUrl": "http://yanxuan.nosdn.127.net/a7642dcbab7d4b3ec715c18c42d43373.png"
+          },
+          {
+            "itemId": 1652031,
+            "picUrl": "http://yanxuan.nosdn.127.net/cbbdd7c5622a0eaab31e42247909c959.png"
+          },
+          {
+            "itemId": 1306026,
+            "picUrl": "http://yanxuan.nosdn.127.net/021188f19de55d4e146dee96b9a0e104.png"
+          },
+          {
+            "itemId": 3408071,
+            "picUrl": "http://yanxuan.nosdn.127.net/593ebddb97e6395592de3c9130ccf60a.png"
+          },
+          {
+            "itemId": 1306027,
+            "picUrl": "http://yanxuan.nosdn.127.net/e47906ac858beefcbcdb955285e46822.png"
+          },
+          {
+            "itemId": 1066028,
+            "picUrl": "http://yanxuan.nosdn.127.net/64897b33fc2c1f2582921ca22a64149c.png"
+          },
+          {
+            "itemId": 1672010,
+            "picUrl": "http://yanxuan.nosdn.127.net/211fb0f4b4e02e58d4d864ab95fcc72a.png"
+          },
+          {
+            "itemId": 1085019,
+            "picUrl": "http://yanxuan.nosdn.127.net/f2d9d5200b13bdfc9e0ebba388e35e95.png"
+          },
+          {
+            "itemId": 1664001,
+            "picUrl": "http://yanxuan.nosdn.127.net/246e27aba6243b29f61bbdee9651b393.png"
+          },
+          {
+            "itemId": 1691008,
+            "picUrl": "http://yanxuan.nosdn.127.net/77bf1ff658f8557391f1b3204cb8ab3b.png"
+          },
+          {
+            "itemId": 1667023,
+            "picUrl": "http://yanxuan.nosdn.127.net/0f0921cbfaf86940a569a59c6c9b121f.png"
+          },
+          {
+            "itemId": 1667068,
+            "picUrl": "http://yanxuan.nosdn.127.net/fc91f2693fef1be783afcd0197f03067.png"
+          },
+          {
+            "itemId": 1659002,
+            "picUrl": "http://yanxuan.nosdn.127.net/8ad9f7fc676da04a752012dcacebaaa9.png"
+          },
+          {
+            "itemId": 1114011,
+            "picUrl": "http://yanxuan.nosdn.127.net/ff2311b1a436ba4e83b2edc1b6ea49f3.png"
+          },
+          {
+            "itemId": 1659003,
+            "picUrl": "http://yanxuan.nosdn.127.net/fe06530dd35ec5062c1ecaf82d4812d6.png"
+          },
+          {
+            "itemId": 1134004,
+            "picUrl": "http://yanxuan.nosdn.127.net/7c68880eef4b719a49ed634ecd14275d.png"
+          },
+          {
+            "itemId": 1156006,
+            "picUrl": "http://yanxuan.nosdn.127.net/a2c2f2b27abe0b3c710c03af27655720.png"
+          },
+          {
+            "itemId": 1240001,
+            "picUrl": "http://yanxuan.nosdn.127.net/7b8ef2446e3296cdf78cba3987df2d0c.png"
+          },
+          {
+            "itemId": 1662049,
+            "picUrl": "http://yanxuan.nosdn.127.net/4cea1018d37f4e864b40ca291cb33ab2.png"
+          },
+          {
+            "itemId": 1197019,
+            "picUrl": "http://yanxuan.nosdn.127.net/21bfdfa298f2eb4a68c92b38acb51aaa.png"
+          },
+          {
+            "itemId": 1673011,
+            "picUrl": "http://yanxuan.nosdn.127.net/c2f5eb3161614759bde30d3a8c7d96a7.png"
+          },
+          {
+            "itemId": 1686031,
+            "picUrl": "http://yanxuan.nosdn.127.net/d802c391e6ff07b854ffdcec00b42a5b.png"
+          },
+          {
+            "itemId": 3380007,
+            "picUrl": "http://yanxuan.nosdn.127.net/adc2c7760d212014e15b146c66e8f330.png"
+          },
+          {
+            "itemId": 1225000,
+            "picUrl": "http://yanxuan.nosdn.127.net/5901c66962f8a601f450dd9825b80e73.png"
+          },
+          {
+            "itemId": 1260037,
+            "picUrl": "http://yanxuan.nosdn.127.net/887d0cde5f505ea18ad934031fc33855.png"
+          },
+          {
+            "itemId": 1663045,
+            "picUrl": "http://yanxuan.nosdn.127.net/643f5828d72af6d60e8df2f892a2c27f.png"
+          },
+          {
+            "itemId": 1659006,
+            "picUrl": "http://yanxuan.nosdn.127.net/5a5901d840cd6469ac45eaa24f6e3ba8.png"
+          },
+          {
+            "itemId": 1672050,
+            "picUrl": "http://yanxuan.nosdn.127.net/06e9d7e4a2bbac5dd004c5fe2897f9db.png"
+          },
+          {
+            "itemId": 1655011,
+            "picUrl": "http://yanxuan.nosdn.127.net/842e46233cc0062ec0bfa110bc52a66f.png"
+          }
+        ],
+        "categoryName": "鞋包配饰榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1008000"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1505029",
+              "1624001",
+              "1497001",
+              "1690003",
+              "1691033",
+              "1657026",
+              "1154003",
+              "1498025",
+              "1622010",
+              "1127007",
+              "1484014",
+              "1401006",
+              "1622005",
+              "3454010",
+              "3408014",
+              "1663074",
+              "1074000",
+              "1498021",
+              "1674018",
+              "3406010",
+              "1429006",
+              "1620033",
+              "3406044",
+              "1221001",
+              "1505011",
+              "1545016",
+              "1401005",
+              "3407058",
+              "1553041",
+              "3381014"
+            ],
+            "categoryName": "电器",
+            "categoryId": "1043000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1505029,
+            "picUrl": "http://yanxuan.nosdn.127.net/1e5203ccf607c0136f06af2b09c15e34.png"
+          },
+          {
+            "itemId": 1624001,
+            "picUrl": "http://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png"
+          },
+          {
+            "itemId": 1497001,
+            "picUrl": "http://yanxuan.nosdn.127.net/73a065d6fc8c32197b54421808c54788.png"
+          },
+          {
+            "itemId": 1690003,
+            "picUrl": "http://yanxuan.nosdn.127.net/0d551bd5cee1656127985e1003926672.png"
+          },
+          {
+            "itemId": 1691033,
+            "picUrl": "http://yanxuan.nosdn.127.net/37423fe8917eea97ce273a801e3f87b9.png"
+          },
+          {
+            "itemId": 1657026,
+            "picUrl": "http://yanxuan.nosdn.127.net/780b2fc0c98fac7b2862a8a111ee615f.png"
+          },
+          {
+            "itemId": 1154003,
+            "picUrl": "http://yanxuan.nosdn.127.net/835612e5c90c335ad6977f84d34f8d23.png"
+          },
+          {
+            "itemId": 1498025,
+            "picUrl": "http://yanxuan.nosdn.127.net/3e18c31adcdbb08cc69e46afb46d084e.png"
+          },
+          {
+            "itemId": 1622010,
+            "picUrl": "http://yanxuan.nosdn.127.net/54e2381bd2baac755c3747bf6ded7998.png"
+          },
+          {
+            "itemId": 1127007,
+            "picUrl": "http://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png"
+          },
+          {
+            "itemId": 1484014,
+            "picUrl": "http://yanxuan.nosdn.127.net/04763003a311710e58da2539bf573949.png"
+          },
+          {
+            "itemId": 1401006,
+            "picUrl": "http://yanxuan.nosdn.127.net/122a30188b07fa93daf3257da917296b.png"
+          },
+          {
+            "itemId": 1622005,
+            "picUrl": "http://yanxuan.nosdn.127.net/ccdbdc82bdc8929723e4941a93f85550.png"
+          },
+          {
+            "itemId": 3454010,
+            "picUrl": "http://yanxuan.nosdn.127.net/21712dc8c9b39049c0731613905ca56a.png"
+          },
+          {
+            "itemId": 3408014,
+            "picUrl": "http://yanxuan.nosdn.127.net/e1d2f0b529eddc9b645997d0f16e9aca.png"
+          },
+          {
+            "itemId": 1663074,
+            "picUrl": "http://yanxuan.nosdn.127.net/6933a30433aff412b2f10021da9e3415.png"
+          },
+          {
+            "itemId": 1074000,
+            "picUrl": "http://yanxuan.nosdn.127.net/d2a45e829bd8f559f6ea7f84a024bfcf.png"
+          },
+          {
+            "itemId": 1498021,
+            "picUrl": "http://yanxuan.nosdn.127.net/652a56ba4762111d19735841296f4e98.png"
+          },
+          {
+            "itemId": 1674018,
+            "picUrl": "http://yanxuan.nosdn.127.net/a199e0f25fc8ae293934422f6812393a.png"
+          },
+          {
+            "itemId": 3406010,
+            "picUrl": "http://yanxuan.nosdn.127.net/800adc6890490974f25520a9eea00b58.png"
+          },
+          {
+            "itemId": 1429006,
+            "picUrl": "http://yanxuan.nosdn.127.net/5a07b6a1c9d8d5e039e8360d0f92c396.png"
+          },
+          {
+            "itemId": 1620033,
+            "picUrl": "http://yanxuan.nosdn.127.net/5158d38c9dde3eb2a206cda7e4aa70f7.png"
+          },
+          {
+            "itemId": 3406044,
+            "picUrl": "http://yanxuan.nosdn.127.net/1a79d5657936406d1c7c5202b8b3eff9.png"
+          },
+          {
+            "itemId": 1221001,
+            "picUrl": "http://yanxuan.nosdn.127.net/de5d87c7cb0f5f0d92a3e5d52019b55e.png"
+          },
+          {
+            "itemId": 1505011,
+            "picUrl": "http://yanxuan.nosdn.127.net/1dcd08458477be5764343189018f3f33.png"
+          },
+          {
+            "itemId": 1545016,
+            "picUrl": "http://yanxuan.nosdn.127.net/da8ba5cd1fb0cfd689ebbe905a330913.png"
+          },
+          {
+            "itemId": 1401005,
+            "picUrl": "http://yanxuan.nosdn.127.net/ad491fb41d3c63eed6713e2dd5343fe2.png"
+          },
+          {
+            "itemId": 3407058,
+            "picUrl": "http://yanxuan.nosdn.127.net/f3c5546065516d11e385a18bf8b01367.png"
+          },
+          {
+            "itemId": 1553041,
+            "picUrl": "http://yanxuan.nosdn.127.net/73af63aa5c47c369fe7e2f30b3815aac.png"
+          },
+          {
+            "itemId": 3381014,
+            "picUrl": "http://yanxuan.nosdn.127.net/cc42465d82beee08db0ba10748d43390.png"
+          }
+        ],
+        "categoryName": "电器榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1043000"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/97719f5e6bbca639cdab6b50591c0689.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1625007",
+              "1535011",
+              "1197009",
+              "1115009",
+              "1149005",
+              "3446033",
+              "1398016",
+              "1667011",
+              "1535019",
+              "1292003",
+              "1116051",
+              "1535010",
+              "1468014",
+              "1667007",
+              "3388017",
+              "1137006",
+              "1417023",
+              "1512035",
+              "1233001",
+              "3441151",
+              "1156092",
+              "1142056",
+              "1666060",
+              "3412047",
+              "1661007",
+              "1435014",
+              "1503001",
+              "1146006",
+              "1572030",
+              "3398008"
+            ],
+            "categoryName": "饮食",
+            "categoryId": "1005002"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1625007,
+            "picUrl": "http://yanxuan.nosdn.127.net/97719f5e6bbca639cdab6b50591c0689.png"
+          },
+          {
+            "itemId": 1535011,
+            "picUrl": "http://yanxuan.nosdn.127.net/1979054e3a1c8409f10191242165e674.png"
+          },
+          {
+            "itemId": 1197009,
+            "picUrl": "http://yanxuan.nosdn.127.net/afefef84a592743d93b85b8d11bbc707.png"
+          },
+          {
+            "itemId": 1115009,
+            "picUrl": "http://yanxuan.nosdn.127.net/8b7bde0b395e2bda54505cf4c3b7880b.png"
+          },
+          {
+            "itemId": 1149005,
+            "picUrl": "http://yanxuan.nosdn.127.net/dc3ea0bf6df2e75dd9ec7fa8987be25a.png"
+          },
+          {
+            "itemId": 3446033,
+            "picUrl": "http://yanxuan.nosdn.127.net/675dbc5080b33299d5b28a2009fc5d0a.png"
+          },
+          {
+            "itemId": 1398016,
+            "picUrl": "http://yanxuan.nosdn.127.net/b532f2f441572242333f6c5b92fc9f10.png"
+          },
+          {
+            "itemId": 1667011,
+            "picUrl": "http://yanxuan.nosdn.127.net/cb4813d6cfa655063ea16aead5c1929f.png"
+          },
+          {
+            "itemId": 1535019,
+            "picUrl": "http://yanxuan.nosdn.127.net/47904914f380ea2b0877fd67882755f7.png"
+          },
+          {
+            "itemId": 1292003,
+            "picUrl": "http://yanxuan.nosdn.127.net/cacc35a5297026653621be30c1a51e87.png"
+          },
+          {
+            "itemId": 1116051,
+            "picUrl": "http://yanxuan.nosdn.127.net/b74102812de03a7b320ea6b59b657888.png"
+          },
+          {
+            "itemId": 1535010,
+            "picUrl": "http://yanxuan.nosdn.127.net/605c286e89e479a969c74ed2af3c3f00.png"
+          },
+          {
+            "itemId": 1468014,
+            "picUrl": "http://yanxuan.nosdn.127.net/3c5dca0525bcb5bfa2714366bd148225.png"
+          },
+          {
+            "itemId": 1667007,
+            "picUrl": "http://yanxuan.nosdn.127.net/7060eca994752779b938aa7804a75e86.png"
+          },
+          {
+            "itemId": 3388017,
+            "picUrl": "http://yanxuan.nosdn.127.net/988fa27915ae3683d88108d940d5f87d.png"
+          },
+          {
+            "itemId": 1137006,
+            "picUrl": "http://yanxuan.nosdn.127.net/c24d528dfc4c043cad7cdb560d2b7764.png"
+          },
+          {
+            "itemId": 1417023,
+            "picUrl": "http://yanxuan.nosdn.127.net/4ca9c69f55a690958527a944821ca5da.png"
+          },
+          {
+            "itemId": 1512035,
+            "picUrl": "http://yanxuan.nosdn.127.net/64f33b256b0f8660b8b6184dbf9bfdc2.png"
+          },
+          {
+            "itemId": 1233001,
+            "picUrl": "http://yanxuan.nosdn.127.net/2505a45ca03599f93572e0e6407228ba.png"
+          },
+          {
+            "itemId": 3441151,
+            "picUrl": "http://yanxuan.nosdn.127.net/0cdf3a0ba315fd4ecea03010026adfae.png"
+          },
+          {
+            "itemId": 1156092,
+            "picUrl": "http://yanxuan.nosdn.127.net/be9ac714fe499c4a0a27316f6eb1597f.png"
+          },
+          {
+            "itemId": 1142056,
+            "picUrl": "http://yanxuan.nosdn.127.net/2501687aee9b1c2db9db024b3e062aa7.png"
+          },
+          {
+            "itemId": 1666060,
+            "picUrl": "http://yanxuan.nosdn.127.net/33fd21d0d6f7d16a5eda72c5ec9d1504.png"
+          },
+          {
+            "itemId": 3412047,
+            "picUrl": "http://yanxuan.nosdn.127.net/e48c5a94291fd6bf6e55f0cba71c9dd4.png"
+          },
+          {
+            "itemId": 1661007,
+            "picUrl": "http://yanxuan.nosdn.127.net/6c698af2b35ad8be1846c7ea64052d1b.png"
+          },
+          {
+            "itemId": 1435014,
+            "picUrl": "http://yanxuan.nosdn.127.net/e74071d06c4014647a0a1716ee709e4f.png"
+          },
+          {
+            "itemId": 1503001,
+            "picUrl": "http://yanxuan.nosdn.127.net/cc0c69427ba052091a2ff8b627637665.png"
+          },
+          {
+            "itemId": 1146006,
+            "picUrl": "http://yanxuan.nosdn.127.net/25e34acf483e24f23206c8b956b61871.png"
+          },
+          {
+            "itemId": 1572030,
+            "picUrl": "http://yanxuan.nosdn.127.net/17cde9b5d4c098aafc97c7a33501b246.png"
+          },
+          {
+            "itemId": 3398008,
+            "picUrl": "http://yanxuan.nosdn.127.net/748372e0e7b7981d0eebd06ba82f2876.png"
+          }
+        ],
+        "categoryName": "饮食榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005002"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/6b8b1f64281a5baf66d97ef4754c30b8.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1674049",
+              "1458000",
+              "1077003",
+              "1415008",
+              "1687019",
+              "1323007",
+              "1621025",
+              "1389000",
+              "1113001",
+              "1506015",
+              "1683007",
+              "1667055",
+              "1172011",
+              "1109013",
+              "1500021",
+              "3440221",
+              "3440148",
+              "1134051",
+              "1129015",
+              "1418009",
+              "1129016",
+              "1124015",
+              "1172012",
+              "1391001",
+              "1199020",
+              "1334005",
+              "1674023",
+              "1683015",
+              "1652044",
+              "3441130"
+            ],
+            "categoryName": "洗护",
+            "categoryId": "1013001"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1674049,
+            "picUrl": "http://yanxuan.nosdn.127.net/6b8b1f64281a5baf66d97ef4754c30b8.png"
+          },
+          {
+            "itemId": 1458000,
+            "picUrl": "http://yanxuan.nosdn.127.net/a07c82f8b26a4ed42b1d697eb9ea418f.png"
+          },
+          {
+            "itemId": 1077003,
+            "picUrl": "http://yanxuan.nosdn.127.net/a10ed5c19533c9e1e2abf1d8cb843c24.png"
+          },
+          {
+            "itemId": 1415008,
+            "picUrl": "http://yanxuan.nosdn.127.net/06e5818658707bc182acabe92cae3d34.png"
+          },
+          {
+            "itemId": 1687019,
+            "picUrl": "http://yanxuan.nosdn.127.net/e67f321182d77744dd88ced5705b359a.png"
+          },
+          {
+            "itemId": 1323007,
+            "picUrl": "http://yanxuan.nosdn.127.net/1aa33d78c7a8247a8700c1f5da4ff4c7.png"
+          },
+          {
+            "itemId": 1621025,
+            "picUrl": "http://yanxuan.nosdn.127.net/2d43d642d928240ef2013e8da1c133b2.png"
+          },
+          {
+            "itemId": 1389000,
+            "picUrl": "http://yanxuan.nosdn.127.net/9fbd6ddba14084978e7133a0d8da8d7a.png"
+          },
+          {
+            "itemId": 1113001,
+            "picUrl": "http://yanxuan.nosdn.127.net/431a09a43914483f4d70aeda8ecb8a59.png"
+          },
+          {
+            "itemId": 1506015,
+            "picUrl": "http://yanxuan.nosdn.127.net/ddf9386501eb64db0625f7af25ac0362.png"
+          },
+          {
+            "itemId": 1683007,
+            "picUrl": "http://yanxuan.nosdn.127.net/09c6284fb8c2238b2b44a3389f5dc49d.png"
+          },
+          {
+            "itemId": 1667055,
+            "picUrl": "http://yanxuan.nosdn.127.net/3ab1fe8d3339598b11ae75dbcf243287.png"
+          },
+          {
+            "itemId": 1172011,
+            "picUrl": "http://yanxuan.nosdn.127.net/686947ee9b7ef7ee7500cdab44ba0b29.png"
+          },
+          {
+            "itemId": 1109013,
+            "picUrl": "http://yanxuan.nosdn.127.net/ca1a198559cefee7cf5a47e49a1fe51f.png"
+          },
+          {
+            "itemId": 1500021,
+            "picUrl": "http://yanxuan.nosdn.127.net/6c8f8040e442947e2054ffde43b84e74.png"
+          },
+          {
+            "itemId": 3440221,
+            "picUrl": "http://yanxuan.nosdn.127.net/6e7bc6afb636a3440f2b9d3789352892.png"
+          },
+          {
+            "itemId": 3440148,
+            "picUrl": "http://yanxuan.nosdn.127.net/e8ddcf4816b679860a72e58680efdc91.png"
+          },
+          {
+            "itemId": 1134051,
+            "picUrl": "http://yanxuan.nosdn.127.net/822bebafc5d20d9659d16ddf2bebc0c2.png"
+          },
+          {
+            "itemId": 1129015,
+            "picUrl": "http://yanxuan.nosdn.127.net/cee369eab9cce7b0b5924fe6cbbe545d.png"
+          },
+          {
+            "itemId": 1418009,
+            "picUrl": "http://yanxuan.nosdn.127.net/c62d2076704b7f554951707cb46cb551.png"
+          },
+          {
+            "itemId": 1129016,
+            "picUrl": "http://yanxuan.nosdn.127.net/d3571a8e36904b030b24d7c44e36c88e.png"
+          },
+          {
+            "itemId": 1124015,
+            "picUrl": "http://yanxuan.nosdn.127.net/3f9a412e160d7e864442ce28f42d7e08.png"
+          },
+          {
+            "itemId": 1172012,
+            "picUrl": "http://yanxuan.nosdn.127.net/349eafac43dc230a2ae2a406a1d5238e.png"
+          },
+          {
+            "itemId": 1391001,
+            "picUrl": "http://yanxuan.nosdn.127.net/06dac08f9e74a2bc394a3e0260001aad.png"
+          },
+          {
+            "itemId": 1199020,
+            "picUrl": "http://yanxuan.nosdn.127.net/30b05e8fb47924550637c6a204ca7fb4.png"
+          },
+          {
+            "itemId": 1334005,
+            "picUrl": "http://yanxuan.nosdn.127.net/e3a75982d0f03ebc1a53910251cbc6cd.png"
+          },
+          {
+            "itemId": 1674023,
+            "picUrl": "http://yanxuan.nosdn.127.net/9c1c19658afb4cfabca4640ef36ba7ee.png"
+          },
+          {
+            "itemId": 1683015,
+            "picUrl": "http://yanxuan.nosdn.127.net/deef1871dde2e97f7ce3514c39ede0b7.png"
+          },
+          {
+            "itemId": 1652044,
+            "picUrl": "http://yanxuan.nosdn.127.net/280c24968ba942d62443e5853cf5c05c.png"
+          },
+          {
+            "itemId": 3441130,
+            "picUrl": "http://yanxuan.nosdn.127.net/52f4f5f1d14ca0d5885cff80398041de.png"
+          }
+        ],
+        "categoryName": "洗护榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1013001"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/02da8bce2fa3a182d398f6a09e8ac2f5.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1327000",
+              "1327001",
+              "1657028",
+              "1023003",
+              "1686012",
+              "1644033",
+              "3419065",
+              "3400004",
+              "1025005",
+              "1625008",
+              "1146000",
+              "1478002",
+              "1674003",
+              "1686114",
+              "1039037",
+              "1634023",
+              "1045004",
+              "1011012",
+              "1146001",
+              "1656000",
+              "1006058",
+              "1051002",
+              "1051000",
+              "1076004",
+              "3380014",
+              "1085018",
+              "1635006",
+              "1649004",
+              "1275000",
+              "1418015"
+            ],
+            "categoryName": "餐厨",
+            "categoryId": "1005001"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1327000,
+            "picUrl": "http://yanxuan.nosdn.127.net/02da8bce2fa3a182d398f6a09e8ac2f5.png"
+          },
+          {
+            "itemId": 1327001,
+            "picUrl": "http://yanxuan.nosdn.127.net/dec2804e83f36f6cc2ad7b28d49b8aff.png"
+          },
+          {
+            "itemId": 1657028,
+            "picUrl": "http://yanxuan.nosdn.127.net/4517afd174022bbb5b5fbfb0d8e4de6a.png"
+          },
+          {
+            "itemId": 1023003,
+            "picUrl": "http://yanxuan.nosdn.127.net/50c78eb5b3984bea02a5c172627d6cc5.png"
+          },
+          {
+            "itemId": 1686012,
+            "picUrl": "http://yanxuan.nosdn.127.net/f77d406b8da91f8d82533784757e8a56.png"
+          },
+          {
+            "itemId": 1644033,
+            "picUrl": "http://yanxuan.nosdn.127.net/662862f40fa677caa286dec79782b940.png"
+          },
+          {
+            "itemId": 3419065,
+            "picUrl": "http://yanxuan.nosdn.127.net/e6e485890c91b8f66f94079f89d61517.png"
+          },
+          {
+            "itemId": 3400004,
+            "picUrl": "http://yanxuan.nosdn.127.net/4c2eb56cad173734848f709ae2a0570d.png"
+          },
+          {
+            "itemId": 1025005,
+            "picUrl": "http://yanxuan.nosdn.127.net/0bb087f9a846f2ea9828aaa66e49db1f.png"
+          },
+          {
+            "itemId": 1625008,
+            "picUrl": "http://yanxuan.nosdn.127.net/a83ad9ca9daf84567457dc19f4d1176b.png"
+          },
+          {
+            "itemId": 1146000,
+            "picUrl": "http://yanxuan.nosdn.127.net/0ab8d29a2926cb060fa7842bb1c1f42b.png"
+          },
+          {
+            "itemId": 1478002,
+            "picUrl": "http://yanxuan.nosdn.127.net/cf57f10e83e63b83fbec9328fb2a8a4e.png"
+          },
+          {
+            "itemId": 1674003,
+            "picUrl": "http://yanxuan.nosdn.127.net/d85e444fbc8be79e7c5dc02881c90152.png"
+          },
+          {
+            "itemId": 1686114,
+            "picUrl": "http://yanxuan.nosdn.127.net/f79d6194ad32a781eeb6a434f2267f4f.png"
+          },
+          {
+            "itemId": 1039037,
+            "picUrl": "http://yanxuan.nosdn.127.net/f958c8b4e8d6dfa7fc574bd06b530821.png"
+          },
+          {
+            "itemId": 1634023,
+            "picUrl": "http://yanxuan.nosdn.127.net/d851d7bf00b4fa3cc42c4ec7a2ffb218.png"
+          },
+          {
+            "itemId": 1045004,
+            "picUrl": "http://yanxuan.nosdn.127.net/a2585d4686f7cba87f3f12a7e6d45b50.png"
+          },
+          {
+            "itemId": 1011012,
+            "picUrl": "http://yanxuan.nosdn.127.net/c44c275280b1aed6faeae7e7a86017c2.png"
+          },
+          {
+            "itemId": 1146001,
+            "picUrl": "http://yanxuan.nosdn.127.net/aff8663a9899da2419d0fa16a5ab2624.png"
+          },
+          {
+            "itemId": 1656000,
+            "picUrl": "http://yanxuan.nosdn.127.net/ad5416bf2bfad740199857629dfc1724.png"
+          },
+          {
+            "itemId": 1006058,
+            "picUrl": "http://yanxuan.nosdn.127.net/fa953c6e175c00897e653a87785382c0.png"
+          },
+          {
+            "itemId": 1051002,
+            "picUrl": "http://yanxuan.nosdn.127.net/a564d3c7773fec6839cbfef1beac308c.png"
+          },
+          {
+            "itemId": 1051000,
+            "picUrl": "http://yanxuan.nosdn.127.net/f7f8b3f6a2e5f18f32cc489559d4c121.png"
+          },
+          {
+            "itemId": 1076004,
+            "picUrl": "http://yanxuan.nosdn.127.net/c61965f74af4ec946008b1c529b7cdcd.png"
+          },
+          {
+            "itemId": 3380014,
+            "picUrl": "http://yanxuan.nosdn.127.net/17aab7e6796896e24c45bc36a849d94a.png"
+          },
+          {
+            "itemId": 1085018,
+            "picUrl": "http://yanxuan.nosdn.127.net/195623154ae32187c5404f582ff02a67.png"
+          },
+          {
+            "itemId": 1635006,
+            "picUrl": "http://yanxuan.nosdn.127.net/39398b0b06ee7ff09ed42aaa6bfc711b.png"
+          },
+          {
+            "itemId": 1649004,
+            "picUrl": "http://yanxuan.nosdn.127.net/20b0565fb1e4215bb6fdab86d5d29a48.png"
+          },
+          {
+            "itemId": 1275000,
+            "picUrl": "http://yanxuan.nosdn.127.net/0eecd14ccb23f78ba2f65d9c7e18a1ed.png"
+          },
+          {
+            "itemId": 1418015,
+            "picUrl": "http://yanxuan.nosdn.127.net/804cc1157af4d7626a66139be89f4c19.png"
+          }
+        ],
+        "categoryName": "餐厨榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005001"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/ebffc08b434eaab87392fc401c58fcc5.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "3391009",
+              "1135047",
+              "1606002",
+              "1253002",
+              "1334020",
+              "1662047",
+              "1651000",
+              "1450007",
+              "1663023",
+              "1662015",
+              "1418006",
+              "1662019",
+              "3420057",
+              "1656012",
+              "3379015",
+              "1116034",
+              "3401062",
+              "1662020",
+              "1662016",
+              "3458011",
+              "1523005",
+              "1656006",
+              "1663001",
+              "3379029",
+              "1199005",
+              "1553038",
+              "1251043",
+              "1466003",
+              "1662022"
+            ],
+            "categoryName": "婴童",
+            "categoryId": "1011000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 3391009,
+            "picUrl": "http://yanxuan.nosdn.127.net/ebffc08b434eaab87392fc401c58fcc5.png"
+          },
+          {
+            "itemId": 1135047,
+            "picUrl": "http://yanxuan.nosdn.127.net/ec64907077ca056b393d208792d4e4bb.png"
+          },
+          {
+            "itemId": 1606002,
+            "picUrl": "http://yanxuan.nosdn.127.net/1a5b0d77b8f5ccbcb777f16997dd351d.png"
+          },
+          {
+            "itemId": 1253002,
+            "picUrl": "http://yanxuan.nosdn.127.net/5713af62fb5b0da45db3e054afc3504e.png"
+          },
+          {
+            "itemId": 1334020,
+            "picUrl": "http://yanxuan.nosdn.127.net/d53fb3ddd988b0c9c1e998b959b73113.png"
+          },
+          {
+            "itemId": 1662047,
+            "picUrl": "http://yanxuan.nosdn.127.net/1897fb4550cf38ca32b2ee08b115756e.png"
+          },
+          {
+            "itemId": 1651000,
+            "picUrl": "http://yanxuan.nosdn.127.net/6b21b6c208d7c4ffd4c74e094014219f.png"
+          },
+          {
+            "itemId": 1450007,
+            "picUrl": "http://yanxuan.nosdn.127.net/5bfc39701999e364361883746a229163.png"
+          },
+          {
+            "itemId": 1663023,
+            "picUrl": "http://yanxuan.nosdn.127.net/9d36bb9423aac4d302b5c9174bd7e050.png"
+          },
+          {
+            "itemId": 1662015,
+            "picUrl": "http://yanxuan.nosdn.127.net/07c489bdfa231153de577e2ab93fc7d7.png"
+          },
+          {
+            "itemId": 1418006,
+            "picUrl": "http://yanxuan.nosdn.127.net/914ba4d6fbacf9a4a143f1d10e16eb3f.png"
+          },
+          {
+            "itemId": 1662019,
+            "picUrl": "http://yanxuan.nosdn.127.net/d418548aff9a803399fe8781606c9350.png"
+          },
+          {
+            "itemId": 3420057,
+            "picUrl": "http://yanxuan.nosdn.127.net/65d2ed01f200953a87f87b639872adb0.png"
+          },
+          {
+            "itemId": 1656012,
+            "picUrl": "http://yanxuan.nosdn.127.net/4eedf94452af3d0fec29b0eabdb38a89.png"
+          },
+          {
+            "itemId": 3379015,
+            "picUrl": "http://yanxuan.nosdn.127.net/219614e62520af29decfe88769951610.png"
+          },
+          {
+            "itemId": 1116034,
+            "picUrl": "http://yanxuan.nosdn.127.net/8c0cd732fcefad7e06c013d012b7438e.png"
+          },
+          {
+            "itemId": 3401062,
+            "picUrl": "http://yanxuan.nosdn.127.net/b85ab6713cda8f0fc7896948e3e9f60c.png"
+          },
+          {
+            "itemId": 1662020,
+            "picUrl": "http://yanxuan.nosdn.127.net/eff8eeaa826b8e246e8b551d50f849d7.png"
+          },
+          {
+            "itemId": 1662016,
+            "picUrl": "http://yanxuan.nosdn.127.net/747a2ccf9922944960e0c9e7fd8cc38e.png"
+          },
+          {
+            "itemId": 3458011,
+            "picUrl": "http://yanxuan.nosdn.127.net/0eee3bc68594f69036853062e791d477.png"
+          },
+          {
+            "itemId": 1523005,
+            "picUrl": "http://yanxuan.nosdn.127.net/0fd651937855a53023bbf66783c7afc7.png"
+          },
+          {
+            "itemId": 1656006,
+            "picUrl": "http://yanxuan.nosdn.127.net/97257128faafb39a26d889a6c334715d.png"
+          },
+          {
+            "itemId": 1663001,
+            "picUrl": "http://yanxuan.nosdn.127.net/995c238dea8fea5e9cd92d07ebf73856.png"
+          },
+          {
+            "itemId": 3379029,
+            "picUrl": "http://yanxuan.nosdn.127.net/df2508331cefe76716370a7d86119335.png"
+          },
+          {
+            "itemId": 1199005,
+            "picUrl": "http://yanxuan.nosdn.127.net/ff7c87d92f2b5742860af5c3ce2642bb.png"
+          },
+          {
+            "itemId": 1553038,
+            "picUrl": "http://yanxuan.nosdn.127.net/341c32f8aee27fbfeb46adec52be9abf.png"
+          },
+          {
+            "itemId": 1251043,
+            "picUrl": "http://yanxuan.nosdn.127.net/2bd7c102754734f7bb212ad961225a26.png"
+          },
+          {
+            "itemId": 1466003,
+            "picUrl": "http://yanxuan.nosdn.127.net/75b63f16b14439d52e75d8ba6d049a45.png"
+          },
+          {
+            "itemId": 1662022,
+            "picUrl": "http://yanxuan.nosdn.127.net/e80cc55a65aec4414f37e85d0a9a11cd.png"
+          }
+        ],
+        "categoryName": "婴童榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1011000"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/55425f24345d01992d61a1646325ac94.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1282032",
+              "1076017",
+              "1076018",
+              "1076015",
+              "1476005",
+              "1512038",
+              "1458011",
+              "1339001",
+              "3431005",
+              "1687060",
+              "3441116",
+              "1039056",
+              "1369012",
+              "1076016",
+              "1500037",
+              "3406006",
+              "1512000",
+              "1043021",
+              "1582003",
+              "1687061",
+              "1281002",
+              "1474008",
+              "1665006",
+              "1397002",
+              "3402009",
+              "1145000",
+              "1450009",
+              "1503017",
+              "1406004",
+              "1153006"
+            ],
+            "categoryName": "文体",
+            "categoryId": "1019000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1282032,
+            "picUrl": "http://yanxuan.nosdn.127.net/55425f24345d01992d61a1646325ac94.png"
+          },
+          {
+            "itemId": 1076017,
+            "picUrl": "http://yanxuan.nosdn.127.net/4b72ba8cdcf9eccd3ed1e6be35b09ab8.png"
+          },
+          {
+            "itemId": 1076018,
+            "picUrl": "http://yanxuan.nosdn.127.net/82de8fdea1c8bba21b26099612ff5605.png"
+          },
+          {
+            "itemId": 1076015,
+            "picUrl": "http://yanxuan.nosdn.127.net/e1d87f845a5773665bd7042d28cbf11a.png"
+          },
+          {
+            "itemId": 1476005,
+            "picUrl": "http://yanxuan.nosdn.127.net/d6a5c995853ad18717a00b0d1cd8f39d.png"
+          },
+          {
+            "itemId": 1512038,
+            "picUrl": "http://yanxuan.nosdn.127.net/e3a31129015aeb4667a75f666f5f745d.png"
+          },
+          {
+            "itemId": 1458011,
+            "picUrl": "http://yanxuan.nosdn.127.net/7d1a3017ada5b3f97b00fedd37bd6119.png"
+          },
+          {
+            "itemId": 1339001,
+            "picUrl": "http://yanxuan.nosdn.127.net/f03b73d71a4a84c32db13eddece05cc3.png"
+          },
+          {
+            "itemId": 3431005,
+            "picUrl": "http://yanxuan.nosdn.127.net/57395d0ab82736e06b966cd631c5a494.png"
+          },
+          {
+            "itemId": 1687060,
+            "picUrl": "http://yanxuan.nosdn.127.net/74d2e6828f447b2a9416bc007a45a7d3.png"
+          },
+          {
+            "itemId": 3441116,
+            "picUrl": "http://yanxuan.nosdn.127.net/df700710d76963b2b20407f626bbf04a.png"
+          },
+          {
+            "itemId": 1039056,
+            "picUrl": "http://yanxuan.nosdn.127.net/3e14e82a44c3a250af63df4c29c572d0.png"
+          },
+          {
+            "itemId": 1369012,
+            "picUrl": "http://yanxuan.nosdn.127.net/8ec53361f0f8db9db188641e9f7d5506.png"
+          },
+          {
+            "itemId": 1076016,
+            "picUrl": "http://yanxuan.nosdn.127.net/a31d7ecdec0f914e1c375fac666c1183.png"
+          },
+          {
+            "itemId": 1500037,
+            "picUrl": "http://yanxuan.nosdn.127.net/d51f82a953104474ef9bd7db410a1c24.png"
+          },
+          {
+            "itemId": 3406006,
+            "picUrl": "http://yanxuan.nosdn.127.net/3e820dec04ec433c161828b3aa736b91.png"
+          },
+          {
+            "itemId": 1512000,
+            "picUrl": "http://yanxuan.nosdn.127.net/d45aee3834a763630fed114933d304d0.png"
+          },
+          {
+            "itemId": 1043021,
+            "picUrl": "http://yanxuan.nosdn.127.net/558e899d014b0cfc8ad78445f9155c33.png"
+          },
+          {
+            "itemId": 1582003,
+            "picUrl": "http://yanxuan.nosdn.127.net/b8c295b7ceda6b5fb61bdba3bd4f06af.png"
+          },
+          {
+            "itemId": 1687061,
+            "picUrl": "http://yanxuan.nosdn.127.net/a66c0302aa0b67b580846ffef9deedf5.png"
+          },
+          {
+            "itemId": 1281002,
+            "picUrl": "http://yanxuan.nosdn.127.net/1492eee4a32cac60ef6ef53cdf1855bc.png"
+          },
+          {
+            "itemId": 1474008,
+            "picUrl": "http://yanxuan.nosdn.127.net/54cfe3b769dbf6aff4c37741040140fa.png"
+          },
+          {
+            "itemId": 1665006,
+            "picUrl": "http://yanxuan.nosdn.127.net/b8e151fbdff83e256d60f96a0f0af2a6.png"
+          },
+          {
+            "itemId": 1397002,
+            "picUrl": "http://yanxuan.nosdn.127.net/ed47526939368409b001613ebf28074a.png"
+          },
+          {
+            "itemId": 3402009,
+            "picUrl": "http://yanxuan.nosdn.127.net/0bdc48e4daecb0d9c1817d11ab95603e.png"
+          },
+          {
+            "itemId": 1145000,
+            "picUrl": "http://yanxuan.nosdn.127.net/a92fe36062614c71fa0500cf815361bc.png"
+          },
+          {
+            "itemId": 1450009,
+            "picUrl": "http://yanxuan.nosdn.127.net/856e06fc342c9fed7c2216fb537c7242.png"
+          },
+          {
+            "itemId": 1503017,
+            "picUrl": "http://yanxuan.nosdn.127.net/b96fdbb9aa5bce6192d1f55faec84e60.png"
+          },
+          {
+            "itemId": 1406004,
+            "picUrl": "http://yanxuan.nosdn.127.net/d060b013d4ac1f4c008f4864afa2fead.png"
+          },
+          {
+            "itemId": 1153006,
+            "picUrl": "http://yanxuan.nosdn.127.net/2743921b945a6c71fcdc3c5282a03413.png"
+          }
+        ],
+        "categoryName": "文体榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1019000"
+      },
+      {
+        "picUrl": "http://yanxuan.nosdn.127.net/d85453ca5b9e6ff24cde180504f4c93e.png",
+        "extra": {
+          "operationResource": {
+            "itemIdList": [
+              "1193014",
+              "1624001",
+              "1672005",
+              "1690003",
+              "1691033",
+              "1649026",
+              "1674049",
+              "1458000",
+              "1657026",
+              "1673003",
+              "1622010",
+              "1401006",
+              "1622007",
+              "1149005",
+              "1622005",
+              "3408014",
+              "1621025",
+              "1369013",
+              "1686012",
+              "1663074",
+              "1451010",
+              "1149000",
+              "1498021",
+              "1674018",
+              "1389000",
+              "3406010",
+              "3406044",
+              "1221001",
+              "1401005",
+              "3407058"
+            ],
+            "categoryName": "特色区",
+            "categoryId": "1065000"
+          },
+          "modelType": 5
+        },
+        "itemPicBeanList": [
+          {
+            "itemId": 1193014,
+            "picUrl": "http://yanxuan.nosdn.127.net/d85453ca5b9e6ff24cde180504f4c93e.png"
+          },
+          {
+            "itemId": 1624001,
+            "picUrl": "http://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png"
+          },
+          {
+            "itemId": 1672005,
+            "picUrl": "http://yanxuan.nosdn.127.net/3942af358f8d2664df11edb3e20bb2ec.png"
+          },
+          {
+            "itemId": 1690003,
+            "picUrl": "http://yanxuan.nosdn.127.net/0d551bd5cee1656127985e1003926672.png"
+          },
+          {
+            "itemId": 1691033,
+            "picUrl": "http://yanxuan.nosdn.127.net/37423fe8917eea97ce273a801e3f87b9.png"
+          },
+          {
+            "itemId": 1649026,
+            "picUrl": "http://yanxuan.nosdn.127.net/f3e7c097d9f0682bb9311a4f94e0448e.png"
+          },
+          {
+            "itemId": 1674049,
+            "picUrl": "http://yanxuan.nosdn.127.net/6b8b1f64281a5baf66d97ef4754c30b8.png"
+          },
+          {
+            "itemId": 1458000,
+            "picUrl": "http://yanxuan.nosdn.127.net/a07c82f8b26a4ed42b1d697eb9ea418f.png"
+          },
+          {
+            "itemId": 1657026,
+            "picUrl": "http://yanxuan.nosdn.127.net/780b2fc0c98fac7b2862a8a111ee615f.png"
+          },
+          {
+            "itemId": 1673003,
+            "picUrl": "http://yanxuan.nosdn.127.net/78ea7ea8e35ef016a9000c8c6c12ad92.png"
+          },
+          {
+            "itemId": 1622010,
+            "picUrl": "http://yanxuan.nosdn.127.net/54e2381bd2baac755c3747bf6ded7998.png"
+          },
+          {
+            "itemId": 1401006,
+            "picUrl": "http://yanxuan.nosdn.127.net/122a30188b07fa93daf3257da917296b.png"
+          },
+          {
+            "itemId": 1622007,
+            "picUrl": "http://yanxuan.nosdn.127.net/533eaa23f910d7ed0d9d0acde60013b2.png"
+          },
+          {
+            "itemId": 1149005,
+            "picUrl": "http://yanxuan.nosdn.127.net/dc3ea0bf6df2e75dd9ec7fa8987be25a.png"
+          },
+          {
+            "itemId": 1622005,
+            "picUrl": "http://yanxuan.nosdn.127.net/ccdbdc82bdc8929723e4941a93f85550.png"
+          },
+          {
+            "itemId": 3408014,
+            "picUrl": "http://yanxuan.nosdn.127.net/e1d2f0b529eddc9b645997d0f16e9aca.png"
+          },
+          {
+            "itemId": 1621025,
+            "picUrl": "http://yanxuan.nosdn.127.net/2d43d642d928240ef2013e8da1c133b2.png"
+          },
+          {
+            "itemId": 1369013,
+            "picUrl": "http://yanxuan.nosdn.127.net/a70383508d01b11e3a8aac294e83a2bd.png"
+          },
+          {
+            "itemId": 1686012,
+            "picUrl": "http://yanxuan.nosdn.127.net/f77d406b8da91f8d82533784757e8a56.png"
+          },
+          {
+            "itemId": 1663074,
+            "picUrl": "http://yanxuan.nosdn.127.net/6933a30433aff412b2f10021da9e3415.png"
+          },
+          {
+            "itemId": 1451010,
+            "picUrl": "http://yanxuan.nosdn.127.net/ec556886137cb0e2ad633c970abdc42c.png"
+          },
+          {
+            "itemId": 1149000,
+            "picUrl": "http://yanxuan.nosdn.127.net/c5169878eeb47740aaba2fd6e1a36ecf.png"
+          },
+          {
+            "itemId": 1498021,
+            "picUrl": "http://yanxuan.nosdn.127.net/652a56ba4762111d19735841296f4e98.png"
+          },
+          {
+            "itemId": 1674018,
+            "picUrl": "http://yanxuan.nosdn.127.net/a199e0f25fc8ae293934422f6812393a.png"
+          },
+          {
+            "itemId": 1389000,
+            "picUrl": "http://yanxuan.nosdn.127.net/9fbd6ddba14084978e7133a0d8da8d7a.png"
+          },
+          {
+            "itemId": 3406010,
+            "picUrl": "http://yanxuan.nosdn.127.net/800adc6890490974f25520a9eea00b58.png"
+          },
+          {
+            "itemId": 3406044,
+            "picUrl": "http://yanxuan.nosdn.127.net/1a79d5657936406d1c7c5202b8b3eff9.png"
+          },
+          {
+            "itemId": 1221001,
+            "picUrl": "http://yanxuan.nosdn.127.net/de5d87c7cb0f5f0d92a3e5d52019b55e.png"
+          },
+          {
+            "itemId": 1401005,
+            "picUrl": "http://yanxuan.nosdn.127.net/ad491fb41d3c63eed6713e2dd5343fe2.png"
+          },
+          {
+            "itemId": 3407058,
+            "picUrl": "http://yanxuan.nosdn.127.net/f3c5546065516d11e385a18bf8b01367.png"
+          }
+        ],
+        "categoryName": "特色区榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1065000"
+      }
+    ],
+    "title": "类目热销榜"
   },
-  {
-    "tabId": 7,
-    "tabName": "晒单",
-    "tabType": 2,
-    "defaultShow": false,
-    "linkUrl": "https://m.you.163.com/topic/static/look/index",
-    "linkType": 1
+  "freshmanFlag": true,
+  "flashSaleModule": {
+    "activityPrice": 177,
+    "primaryPicUrl": "http://yanxuan.nosdn.127.net/4c01d86be0ff83ebf5bb22ea6f774c69.png",
+    "nextStartTime": 1544162400000,
+    "itemList": [
+      {
+        "itemId": 1487026,
+        "picUrl": "http://yanxuan.nosdn.127.net/4c01d86be0ff83ebf5bb22ea6f774c69.png",
+        "activityPrice": 177,
+        "originPrice": 239.00
+      },
+      {
+        "itemId": 1097000,
+        "picUrl": "http://yanxuan.nosdn.127.net/308e394e394b0eff5784ff7aa48274e2.png",
+        "activityPrice": 68,
+        "originPrice": 85.00
+      },
+      {
+        "itemId": 1130042,
+        "picUrl": "http://yanxuan.nosdn.127.net/0c8b703935d6a9ec26bfac3ed7e311a1.png",
+        "activityPrice": 171,
+        "originPrice": 239.00
+      },
+      {
+        "itemId": 1691058,
+        "picUrl": "http://yanxuan.nosdn.127.net/508ded24b13c6fe5aaf62eb2d214c926.png",
+        "activityPrice": 99,
+        "originPrice": 129.00
+      },
+      {
+        "itemId": 1658002,
+        "picUrl": "http://yanxuan.nosdn.127.net/29f074b5c8666a3f65879c51b32d8c32.png",
+        "activityPrice": 129,
+        "originPrice": 189.00
+      },
+      {
+        "itemId": 1588004,
+        "picUrl": "http://yanxuan.nosdn.127.net/41b6ab258c8e799aae130c0edc0aabb8.png",
+        "activityPrice": 236,
+        "originPrice": 299.00
+      }
+    ],
+    "remainTime": 13918430,
+    "showFlash": true,
+    "flashSaleScreenId": 115032016,
+    "originPrice": 239
   },
-  {
-    "tabId": 6,
-    "tabName": "HOME",
-    "tabType": 0,
-    "defaultShow": false,
-    "linkUrl": null,
-    "linkType": null
-  }
-]
+  "focusList": [
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/8c6c27e0ad6ef5bb6e15e9ba5764eece.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48614171",
+        "operator": "张宛亭",
+        "materialName": "活动 双12正式-红",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 1,
+        "crmUserGroupId": "0",
+        "taskId": "48614177"
+      },
+      "name": "活动 双12正式-红",
+      "onlineTime": 0,
+      "id": 48614171,
+      "targetUrl": "https://act.you.163.com/act/pub/35lg3M4T9f.html"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/1d66a50452354fa28b045853c078cbe3.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48452500",
+        "operator": "张宛亭",
+        "materialName": "活动 特价集锦",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 2,
+        "crmUserGroupId": "0",
+        "taskId": "48608627"
+      },
+      "name": "活动 特价集锦",
+      "onlineTime": 0,
+      "id": 48452500,
+      "targetUrl": "https://act.you.163.com/act/pub/WWK5JewfVF.html"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/cefb822d8ccb075cf76f0e2e235e7a19.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48601309",
+        "operator": "张宛亭",
+        "materialName": "双12限时购盛典-正式",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 3,
+        "crmUserGroupId": "0",
+        "taskId": "48601311"
+      },
+      "name": "双12限时购盛典-正式",
+      "onlineTime": 0,
+      "id": 48601309,
+      "targetUrl": "https://m.you.163.com/flashSale/index"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/31870a90a4882e76baceb44904de5667.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48587170",
+        "operator": "张宛亭",
+        "materialName": "双12全站热销榜",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 4,
+        "crmUserGroupId": "0",
+        "taskId": "48616640"
+      },
+      "name": "双12全站热销榜",
+      "onlineTime": 0,
+      "id": 48587170,
+      "targetUrl": "https://m.you.163.com/item/saleRank"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/93dd6534c39afadbfe4fe7564d74c66a.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48614189",
+        "operator": "张宛亭",
+        "materialName": "活动 双12服装分会场",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 5,
+        "crmUserGroupId": "0",
+        "taskId": "48614193"
+      },
+      "name": "活动 双12服装分会场",
+      "onlineTime": 0,
+      "id": 48614189,
+      "targetUrl": "https://act.you.163.com/act/pub/7u7fOvnPfi.html"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/b125b2b49a6829d03a65e8071327520c.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48621765",
+        "operator": "张宛亭",
+        "materialName": "活动 双12智造分会场",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 6,
+        "crmUserGroupId": "0",
+        "taskId": "48614197"
+      },
+      "name": "活动 双12智造分会场",
+      "onlineTime": 0,
+      "id": 48621765,
+      "targetUrl": "https://act.you.163.com/act/pub/OFFPVwM6Pf.html"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/03f07d9c42050b6df9901803e0ef63bc.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48613448",
+        "operator": "张宛亭",
+        "materialName": "活动 双12配件分会场",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 7,
+        "crmUserGroupId": "0",
+        "taskId": "48614202"
+      },
+      "name": "活动 双12配件分会场",
+      "onlineTime": 0,
+      "id": 48613448,
+      "targetUrl": "https://act.you.163.com/act/pub/n6ADBuOJGu.html"
+    },
+    {
+      "picUrl": "https://yanxuan.nosdn.127.net/8e75e7d9eeb2ae773ca1eed9e0b05144.jpg",
+      "expireTime": 0,
+      "extra": {
+        "materialType": "广告banner",
+        "materialId": "48616515",
+        "operator": "张宛亭",
+        "materialName": "活动 双12囤货-正式期",
+        "taskType": 1,
+        "crmUserGroupName": "无分组",
+        "resourcesId": 8,
+        "crmUserGroupId": "0",
+        "taskId": "48616517"
+      },
+      "name": "活动 双12囤货-正式期",
+      "onlineTime": 0,
+      "id": 48616515,
+      "targetUrl": "https://act.you.163.com/act/pub/9EqA20Fjvi.html"
+    }
+  ],
+  "indexActivityModule": [
+    {
+      "backgroundUrl": "",
+      "picUrl": "http://yanxuan.nosdn.127.net/c059f71b82ce9aa04707ee7df951d373.png",
+      "activityPrice": "¥88",
+      "subTitle": "今日特价",
+      "originPrice": "¥129",
+      "tag": "",
+      "title": "福利社",
+      "targetUrl": "https://m.you.163.com/saleCenter/index"
+    },
+    {
+      "picUrl": "http://yanxuan.nosdn.127.net/2501687aee9b1c2db9db024b3e062aa7.png",
+      "activityPrice": "¥1",
+      "subTitle": "",
+      "originPrice": "¥9",
+      "tag": "1元起包邮",
+      "title": "新人拼团",
+      "targetUrl": "https://m.you.163.com/pin/item/list"
+    }
+  ]
+}
+
+

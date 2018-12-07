@@ -8,6 +8,7 @@ import Cart from '../pages/Cart/Cart'
 import Topic from '../pages/Topic/Topic'
 import PersonalCenter from '../pages/PersonalCenter/PersonalCenter'
 import Search from '../components/Search/Search'
+import Rrror from '../components/Error/error'
 
 
 //必须声明使用
@@ -60,6 +61,12 @@ export default new VueRouter({
     {
       path:'/',
       redirect:'/shop'
+    },
+    {path:'/*',
+      component:Rrror,
+      meta:{
+      isShow:false
+      }
     }
   ]
 })

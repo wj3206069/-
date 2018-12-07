@@ -1,49 +1,9 @@
 <template>
   <div class="warp">
-    <ul class="shopClassify">
-      <!--<li v-for="(c,index) in shopClassify" :key="index" class="classify">
-        <img :src="c.src" alt="##">
-        <span class="text">{{c.Classify}}</span>
-      </li>-->
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        推荐
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        推荐
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        推荐
-      </li>
-      <li href="###" class="classify">
-        <img src="./images/zhentou.png" alt="">
-        <span>推荐</span>
+    <ul class="shopClassify" v-if="homeList.cateList">
+      <li class="classify" v-for="(item,i) in homeList.kingKongModule.kingKongList" :key="i">
+        <img :src="item.picUrl" alt="">
+        <span>{{item.text}}</span>
       </li>
     </ul>
     <div class="advertising">
@@ -97,12 +57,18 @@
 </template>
 
 <script>
+  import {mapState} from 'vuex'
+
   export default {
     name: "ShopContent",
     data() {
       return {
 
       }
+    },
+
+    computed:{
+      ...mapState(['homeList'])
     }
   }
 </script>
@@ -116,15 +82,14 @@
     width: 100%;
     height: auto;
     display flex
-    flex-flow row wrap-reverse
-    align-items: center;
+    flex-wrap wrap
     li
       display: block;
       width: 1.46667rem;
       height: 2.08rem;
-      float: left;
       margin: .13333rem .26667rem 0;
       text-align center
+      position relative
       img
         width: 1.46667rem;
         height: 1.46667rem;
@@ -240,4 +205,6 @@
           width: 4.57333rem;
           height: 2.86667rem
           background-image url("./images/weal3.png")
+
+
 </style>

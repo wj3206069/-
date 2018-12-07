@@ -5,5 +5,8 @@
 export default {
   shopList:[],
   topicList:[],
-  shopReplenish:[]
+  homeList:[],
+  homeLbt:[],
+  discoverList:[],
+  recommendList:[]
 }

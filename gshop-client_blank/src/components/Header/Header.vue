@@ -10,14 +10,14 @@
       </div>
       <div class="headerWrap">
         <div class="headerRow">
-          <div class="home iconfont icon-shouye" @click="$router.push('./Shop')"></div>
+          <div class="home iconfont icon-shouye" @click="$router.push('./shop')"></div>
           <div class="title">
             <span :class="classOption">{{title}}</span>
             <span class="x" v-if="title==='发现'">甄选家</span>
           </div>
           <div class="headerRight">
-            <div class="shopCart iconfont icon-gouwuche" @click="$router.push('./Cart')"></div>
-            <div class="search iconfont icon-sousuokuang" @click="$router.push('./Search')"></div>
+            <div class="shopCart iconfont icon-gouwuche" @click="$router.push('./cart')"></div>
+            <div class="search iconfont icon-sousuokuang" @click="$router.push('./search')"></div>
           </div>
         </div>
       </div>
