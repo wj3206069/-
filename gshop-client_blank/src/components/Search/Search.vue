@@ -1,213 +1,191 @@
 <template>
-<div>
-  <div class="wrap" v-for="(item,l) in discoverList" :key="l">
-    <div v-for="(nack,i) in item.topics" :key="i">
-      <div class="m-tpls" v-if="nack.type===1">
-        <a href="">
-          <div class="u-name">
-          <span class="ava">
-            <img :src="nack.avatar" alt="" width="100%" height="100%">
-          </span>
-            <span>{{nack.nickname}}</span>
-          </div>
-          <div class="title">{{nack.title}}</div>
-          <div class="u-pic">
-            <img :src="nack.picUrl" alt="" width="100%" height="100%">
-          </div>
-          <div class="u-rcount">
-            <i class="ico iconfont icon-yulan"></i>
-            <span>{{nack.readCount}} 人看过</span>
-          </div>
-        </a>
+  <div>
+    <Header title="网易严选"/>
+    <div class="logiContent">
+      <div class="logiWrap" :class="{paddingTop:isIDLogin}">
+        <img src="./img/logo.png" alt="" :class="{imgWith:isIDLogin}">
       </div>
-      <div class="m-tpls m-tpls-picker" v-if="nack.type===0">
-        <a href="" class="u-flexbox">
-          <div class="info">
-            <div class="u-name">
-                <span class="ava">
-                <img :src="nack.avatar" alt="" width="100%" height="100%">
-              </span>
-              <span>{{nack.nickname}}</span>
-            </div>
-            <div class="title">{{nack.title}}</div>
-            <div class="desc">{{nack.subTitle}}</div>
-            <div class="u-rcount">
-              <i class="ico iconfont icon-yulan"></i>
-              <span>{{nack.readCount}} 人看过</span>
-            </div>
+      <div class="input" v-if="isIDLogin">
+        <div class="registerWrap">
+          <div class="importID">
+            <span class="ID">邮箱账号</span><input type="text" class="IDText">
           </div>
-          <div class="u-pic">
-            <img :src="nack.picUrl" alt="" width="100%" height="100%">
+          <div class="importPwd">
+            <span class="pwd">密码</span><input type="password" class="password">
           </div>
-        </a>
+          <div class="btnRegister">
+            <span class="register">注册账号</span>
+            <span class="forgetPwd">忘记密码</span>
+          </div>
+        </div>
+      </div>
+      <div class="btnWarp" >
+        <div class="w-button">
+          <i class="iconfont icon-zhikeshuma-" v-show="!isIDLogin"></i>
+          <span @click="">{{isIDLogin?"登陆":"手机号码登录"}}</span>
+        </div>
+        <div class="w-button login">
+          <i class="iconfont icon-youxiang" v-show="!isIDLogin"></i>
+          <span @click="isIDLogin=!isIDLogin" v-if="!isIDLogin">邮箱帐号登录</span>
+          <span @click="isIDLogin=!isIDLogin" v-if="isIDLogin">其他方式登陆</span>
+        </div>
+        <div class="btn" v-show="!isIDLogin">
+          <span>手机号快捷注册</span>
+          <i class="iconfont icon-jiantou"></i>
+        </div>
+      </div>
+      <div v-show="!isIDLogin" class="thirdWrap">
+        <div class="itemWrap">
+        <span class="item">
+          <i class="iconfont icon-weixin1"></i>
+          <span class="name">微信</span>
+        </span>
+        </div>
+        <div class="itemWrap">
+        <span class="item">
+          <i class="iconfont icon-qq"></i>
+          <span class="name">QQ</span>
+        </span>
+        </div>
+        <div class="itemWrap">
+        <span class="item endItem">
+          <i class="iconfont icon-weibo"></i>
+          <span class="name">微博</span>
+        </span>
+        </div>
       </div>
     </div>
   </div>
-</div>
-
-
-
 </template>
 
 <script>
-  import {mapState} from 'vuex'
-
   export default {
-    name: "Search",
-    mounted() {
-      this.$store.dispatch('getAuto', '/topic/v1/find/recAuto.json?page=1&size=5&exceptIds=5507,5286,4746,4745,5213,5252,518,5446,5288,4037,4035,4210,5339,4635,4640,3583,3860,4040,3438,4648,4489,4364,4513,2747,3882,4168,3773')
-      this.$store.dispatch('getManual', '/topic/v1/find/recManual.json')
+    name: "PersonalCenter",
+    data(){
+      return{
+        isIDLogin:false,
+        isIphoneLogin:false
+      }
     },
-
-    computed: {
-      ...mapState(['discoverList', 'recommendList'])
-    }
   }
 </script>
 
 <style scoped lang="stylus">
-  .wrap
-    width 100%
-    height 100%
-    background #f4f4f4;
-    .m-tpls
-      width: 100%;
-      background: #fff;
-      margin: 11px 0;
-      box-sizing: border-box;
-      padding: 17.6px 25.5px;
-      a
-        color: inherit;
-        cursor: pointer;
-        text-decoration: none;
-        .u-name
-          color: #333;
-          line-height: .36rem;
-          white-space: nowrap;
-          overflow: hidden;
-          text-overflow: ellipsis;
-        .u-name, span
-          margin-bottom: .24rem;
-          font-size: .38rem;
-          .ava
-            width: .7rem;
-            height: .7rem;
-            overflow: hidden;
-            border-radius: 50%;
-            box-sizing: border-box;
-            border: .01rem solid #d9d9d9;
-            margin-right: .12rem;
-            display: inline-block;
-            vertical-align: middle;
-            img
-              border: 0 none;
-        .title
-          font-size: .5rem;
-          color: #333;
-          line-height: .52rem;
-          margin: -.08rem 0 .16rem 0;
-          overflow: hidden;
-          text-overflow: ellipsis;
-          display: -webkit-box;
-          font-family: PingFangSC-Regular;
-        .u-pic
+  .logiContent
+    .logiWrap
+      text-align: center;
+      padding-top: 2.13333rem;
+      padding-bottom: 2.13333rem;
+      img
+        width: 5.57333rem;
+    .btnWarp
+      padding: 0 .53333rem;
+      margin-bottom: 2.73333rem;
+      .w-button
+        margin-bottom: .42667rem;
+        border-radius: 2px;
+        display: block;
+        width: 100%;
+        height: 1.25333rem;
+        line-height: 1.25333rem;
+        font-size: .57333rem;
+        border: 1px solid #b4282d;
+        background-color: #B4282B;
+        text-align center
+        >i
+          margin-right: .21333rem;
           position: relative;
-          margin-bottom: .2rem;
-          overflow: hidden;
-          border-radius: .08rem;
-          background #f0f0f0;
-          width: 100%
-          height: 5rem
-          > img
-            display block
-        .u-rcount
-          margin-bottom: -.16rem;
-          font-size: .38rem;
-          color: #999;
-          line-height: .32rem;
-          margin-top: .18rem;
-          .ico
-            margin-right: .08rem;
+          top: -.02667rem;
+          font-size .65rem
+          color white
+        >span
+          line-height: 1.25333rem;
+          color: #fff;
+      .login
+        margin-bottom: .42667rem;
+        border-radius: 2px;
+        background-color: transparent;
+        >span
+          color #B4282B
+        >i
+          font-size .6rem
+          color #B4282B
+      .btn
+        color: #333;
+        font-size: .37333rem;
+        text-align: center;
+        width: 100%;
+        >i
+          margin-right: .21333rem;
+          position: relative;
+          top: -.02667rem;
+          margin-left: .05333rem;
+          font-size .35rem
+    .thirdWrap
+      position: absolute;
+      width: 100%;
+      left: 0;
+      bottom: 1.06667rem;
+      height: .53333rem;
+      text-align: center;
+      .itemWrap
+        height: .83333rem;
+        display: inline-block;
+        text-align: center;
+        .item
+          height: .83333rem;
+          border-right: 1px solid #979797;
+          display: inline-block;
+          text-align: center;
+          padding: 0 .53333rem;
+          i
+            position: relative;
+            top: .13333rem;
             display: inline-block;
-            font-size .28rem
-            line-height .38rem
-          > span
-            display: inline-block;
-            font-size 0.28rem
-            line-height .38rem
+            font-size: .53333rem;
+          .name
+            font-size: .37333rem;
+            line-height: .53333rem;
+            height: .53333rem;
+            color: #7F7F7F;
+            margin-left: .06667rem;
+        .endItem
+          border-right: 0;
 
-    .m-tpls-picker
-      position: relative;
-      padding: 17.6px 25.5px;
-      .u-flexbox
+  .input
+    width 100%
+    display flex
+    flex-direction column
+    .registerWrap
+      /*width 100%*/
+      padding 0 .38rem
+      >div
+        /*width 100%*/
+        /*padding 0 .38rem*/
+        height 1rem
         display flex
-        flex-wrap: wrap;
-        justify-content: space-between;
-        color: inherit;
-        .info
-          width: 445px;
-          .u-name
-            font-size: 20px;
-            color: #333;
-            line-height: 40px;
-            white-space: nowrap;
-            overflow: hidden;
-          .u-name, span
-            margin-bottom: .24rem;
-            font-size: .38rem;
-            text-overflow: ellipsis;
-            .ava
-              width: .68rem;
-              height: .68rem;
-              overflow: hidden;
-              border-radius: 50%;
-              -webkit-box-sizing: border-box;
-              box-sizing: border-box;
-              border: .01rem solid #d9d9d9;
-              margin-right: .12rem;
-          .title
-            width: 100%;
-            font-size: .45rem;
-            color: #333;
-            line-height: .6rem;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            padding-top: .32rem;
-            font-family: PingFangSC-Regular;
-          .desc
-            width: 100%;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            font-size: .38rem;
-            line-height: .5rem;
-            padding-top: .1rem;
-            color: #7f7f7f;
-          .u-rcount
-            font-size: .22rem;
-            color: #999;
-            line-height: .32rem;
-            margin-top: .18rem;
-            left: .3rem;
-            bottom: .26rem;
-            .ico
-              margin-right: .2rem;
-              display: inline-block;
-              font-size .28rem
-              line-height .38rem
-            > span
-              display: inline-block;
-              font-size 0.28rem
-              line-height .38rem
-        .u-pic
-          width: 4rem;
-          height: 3.52rem;
-          overflow: hidden;
-          border-radius: .08rem;
-          > img
-            display: block;
-            border: 0 none;
+        border-bottom solid 1px gray
+        margin-bottom 0.2rem
+        input
+          outline: none
+          width 7rem
+          height 1rem
+          padding-left 0.2rem
+        span
+          font-size 0.35rem
+          color gray
+          line-height 1rem
+      .btnRegister
+        border-bottom 0
+        display flex
+        justify-content space-between
+        >span
+          padding 0 0.3rem
+          font-size 0.38rem
+  .imgWith
+    width 2.57333rem!important
+  .paddingTop
+    padding-top .53333rem!important
+
 </style>
+

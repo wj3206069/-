@@ -32,8 +32,8 @@ export default {
   [RECEIVE_DISCOVER](state,{discoverList}){
     state.discoverList = discoverList
   },
-  
+
   [RECEIVE_REFERRER](state,{recommendList}){
-    state.recommendList = recommendList
+    state.discoverList = recommendList.result
   }
 }

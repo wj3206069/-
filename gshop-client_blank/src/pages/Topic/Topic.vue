@@ -9,13 +9,13 @@
         </li>
       </div>
     </div>
-    <TopicContent/>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-  import {mapState} from 'vuex'
-  import TopicContent from './TopicContent/TopicContent'
+  /*import {mapState} from 'vuex'*/
+
 
   export default {
     name: "Search",
@@ -67,23 +67,23 @@
       }
     },
 
-    mounted(){
+    /*mounted(){
       this.$store.dispatch('getRecommendList')
-    },
+    },*/
 
-    computed:{
+    /*computed:{
       ...mapState(['topicList'])
-    },
+    },*/
 
     methods: {
       isActive(i) {
         this.index = i
-      }
-    },
+        this.$router.replace(`/topic/${i}`)
+      },
 
-    components:{
-      TopicContent
     }
+
+
   }
 </script>
 

@@ -55,7 +55,7 @@ export default {
   async getHomeLbt({commit}, cb){
    const result = await reqGetHomeLbt()
     //1.发送异步的ajax请求
-    if(result.code === '200'){
+    if(result.code === 0){
       const homeLbt = result.data
       commit(RECEIVE_HOMELBT,{homeLbt})
      cb && cb()
@@ -63,18 +63,18 @@ export default {
    },
 
   //获取推荐列表
-   async getAuto({commit},required){
-       const result = await reqGetAuto(required)
+   async getAuto({commit}){
+       const result = await reqGetAuto()
       if(result.code==='200'){
-         const recommendList = result.data
+        const recommendList = result.data
         commit(RECEIVE_REFERRER,{recommendList})
       }
     },
 
   //获取推荐列表
-  async getManual({commit},required){
-    const result = await reqGetManual(required)
-    if(result.code==200){
+  async getManual({commit}){
+    const result = await reqGetManual()
+    if(result.code==='200'){
       const discoverList = result.data
       commit(RECEIVE_DISCOVER,{discoverList})
     }

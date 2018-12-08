@@ -9,17 +9,18 @@ import Topic from '../pages/Topic/Topic'
 import PersonalCenter from '../pages/PersonalCenter/PersonalCenter'
 import Search from '../components/Search/Search'
 import Rrror from '../components/Error/error'
+import TopicContent from '../pages/Topic/TopicContent/TopicContent'
 
 
 //必须声明使用
 Vue.use(VueRouter)
 
 export default new VueRouter({
-  mode:'history',//去掉#
-  routes:[
+  mode: 'history',//去掉#
+  routes: [
     {
-      path:'/shop',
-      component:Shop,
+      path: '/shop',
+      component: Shop,
       meta: {
         isShow: true // 标识显示底部导航
       }
@@ -41,12 +42,26 @@ export default new VueRouter({
     {
       path: '/topic',
       component: Topic,
+      children: [
+        {
+          path: '/topic/:index',
+          component: TopicContent,
+          meta: {
+            isShow: true // 标识显示底部导航
+          },
+        },
+        {
+          path: '',
+          redirect: '/topic/0'
+        }
+      ],
       meta: {
         isShow: true // 标识显示底部导航
-      }
+      },
     },
-    {path:'/Search',
-      component:Search,
+    {
+      path: '/search',
+      component: Search,
       meta: {
         isShow: false // 标识显示底部导航
       }
@@ -59,13 +74,14 @@ export default new VueRouter({
       }
     },
     {
-      path:'/',
-      redirect:'/shop'
+      path: '/',
+      redirect: '/shop'
     },
-    {path:'/*',
-      component:Rrror,
-      meta:{
-      isShow:false
+    {
+      path: '/*',
+      component: Rrror,
+      meta: {
+        isShow: false
       }
     }
   ]

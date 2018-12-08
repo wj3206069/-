@@ -1,8 +1,11 @@
 <template>
   <div>
-    <div class="wrap" v-for="(item,l) in discoverList" :key="l">
+    <div  class="wrap" v-for="(item,l) in discoverList" :key="l">
       <div v-for="(nack,i) in item.topics" :key="i">
-        <div class="m-tpls" v-if="nack.type===1">
+        <div v-if="nack.type===7">
+          <img src="nack.picUrl" alt="">
+        </div>
+        <div class="m-tpls" v-if="nack.type===1 || nack.type===2">
           <a href="">
             <div class="u-name">
           <span class="ava">
@@ -43,25 +46,48 @@
         </div>
       </div>
     </div>
+
   </div>
-
-
-
 </template>
-
 <script>
   import {mapState} from 'vuex'
 
   export default {
-    name: "Search",
+    name: "TopicContent",
+    data(){
+      return{
+
+      }
+    },
+
     mounted() {
-      this.$store.dispatch('getAuto', '/topic/v1/find/recAuto.json?page=1&size=5&exceptIds=5507,5286,4746,4745,5213,5252,518,5446,5288,4037,4035,4210,5339,4635,4640,3583,3860,4040,3438,4648,4489,4364,4513,2747,3882,4168,3773')
-      this.$store.dispatch('getManual', '/topic/v1/find/recManual.json')
+      const index = this.$route.params.index*1
+      this.showList(index)
+      console.log("a");
     },
 
     computed: {
       ...mapState(['discoverList', 'recommendList'])
+    },
+
+    methods: {
+      showList (index) {
+        if(index===0) {
+
+          this.$store.dispatch('getManual')
+        } else if (index===1){
+          this.$store.dispatch('getAuto')
+        }
+      }
+    },
+
+    watch: {
+      $route (val) {
+        const index = val.params.index*1
+        this.showList(index)
+      }
     }
+
   }
 </script>
 

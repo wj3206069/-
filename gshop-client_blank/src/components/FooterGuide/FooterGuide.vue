@@ -15,7 +15,7 @@
       </span>
       <span>分类</span>
     </a>
-    <a href="javascript:;" class="guide_item" :class="{on: $route.path==='/topic'}" @click="goTo('/topic')">
+    <a href="javascript:;" class="guide_item" :class="{on: /^\/topic/.test($route.path)}" @click="goTo('/topic')">
       <span class="item_icon">
         <i class="iconfont icon-checkbox-weixuan"></i>
       </span>
@@ -42,6 +42,7 @@
     name: "FooterGuide",
     methods: {
       goTo(path) {
+        console.log(/^\/topic\/0/.test(this.$route.path));
         this.$router.replace(path)
       }
     }
