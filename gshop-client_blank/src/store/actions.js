@@ -8,7 +8,12 @@ import {
   RECEIVE_TOPICLIST,
   RECEIVE_HOMELBT,
   RECEIVE_REFERRER,
-  RECEIVE_DISCOVER
+  RECEIVE_DISCOVER,
+  RECEIVE_HOTLIST,
+  RECEIVE_RESULT,
+  RECEIVE_REMOVE,
+  RECEIVE_SHOP,
+  RESET_USER
 } from './mutations_types'
 
 import {
@@ -17,7 +22,11 @@ import {
   reqGetRecommendList,
   reqGetHomeLbt,
   reqGetAuto,
-  reqGetManual
+  reqGetManual,
+  reqGetHotList,
+  reqGetSearch,
+  reqGetShop,
+  reqLogout,
 } from "../api";
 
 export default {
@@ -78,5 +87,46 @@ export default {
       const discoverList = result.data
       commit(RECEIVE_DISCOVER,{discoverList})
     }
-  }
+  },
+
+  //获取搜索推荐列表
+  async getHotList ({commit}){
+     const result = await reqGetHotList()
+    if(result.code === '200'){
+       const hotList = result.data
+      commit(RECEIVE_HOTLIST,{hotList})
+    }
+  },
+
+  //获取搜索
+  async getSearchResult({commit},{keywordPrefix}){
+     const result = await reqGetSearch(keywordPrefix)
+    if(result.code === '200'){
+      console.log(result);
+      const searchResult = result.data
+      commit(RECEIVE_RESULT,{searchResult})
+    }
+  },
+
+  //清空搜索结果
+  removeSearchResult({commit}){
+     commit(RECEIVE_REMOVE)
+  },
+
+  //点击搜索结果返回的数据
+ async getSearchShop({commit},{keyword}){
+     const result = await reqGetShop(keyword)
+    if(result.code === '200'){
+      const searchShop = result.data.directlyList
+      commit(RECEIVE_SHOP,{searchShop})
+    }
+  },
+
+  // 请求登出的异步action
+  async logout ({commit}) {
+    const result = await reqLogout()
+    if(result.code===0) {
+      commit(RESET_USER)
+    }
+  },
 }

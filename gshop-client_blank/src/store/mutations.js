@@ -8,7 +8,12 @@ import {
   RECEIVE_TOPICLIST,
   RECEIVE_HOMELBT,
   RECEIVE_DISCOVER,
-  RECEIVE_REFERRER
+  RECEIVE_REFERRER,
+  RECEIVE_HOTLIST,
+  RECEIVE_RESULT,
+  RECEIVE_REMOVE,
+  RECEIVE_SHOP,
+  RESET_USER
 } from "./mutations_types";
 
 
@@ -35,5 +40,25 @@ export default {
 
   [RECEIVE_REFERRER](state,{recommendList}){
     state.discoverList = recommendList.result
-  }
+  },
+
+  [RECEIVE_HOTLIST](state,{hotList}){
+    state.hotList = hotList
+  },
+
+  [RECEIVE_RESULT](state,{searchResult}){
+    state.searchResult = searchResult
+  },
+
+  [RECEIVE_REMOVE](state){
+    state.searchResult = []
+  },
+
+  [RECEIVE_SHOP](state,{searchShop}){
+    state.searchShop = searchShop
+  },
+
+  [RESET_USER] (state) {
+    state.user = {}
+  },
 }

@@ -2,10 +2,10 @@
 <div>
   <Header title="网易严选"/>
   <div class="logiContent">
-    <div class="logiWrap" :class="{paddingTop:isIDLogin}">
-      <img src="./img/logo.png" alt="" :class="{imgWith:isIDLogin}">
+    <div class="logiWrap" :class="{paddingTop:isIDLogin||isIphoneLogin}">
+      <img src="./img/logo.png" alt="" :class="{imgWith:isIDLogin||isIphoneLogin}">
     </div>
-    <div class="input" v-if="isIDLogin">
+    <div class="input" v-if="isIDLogin ">
       <div class="registerWrap">
         <div class="importID">
         <span class="ID">邮箱账号</span><input type="text" class="IDText">
@@ -19,22 +19,42 @@
       </div>
       </div>
   </div>
+    <div class="input" v-if="isIphoneLogin ">
+      <div class="registerWrap">
+        <div class="importID">
+          <span class="ID">输入手机号码</span><input v-model="phone" type="text" class="IDText">
+        </div>
+        <div class="importPwd">
+          <span class="pwd">获取验证码</span>
+          <input v-model="authCode" type="password" class="password">
+          <div class="pcbtn f-fl">
+            <button href="javaScript:;"  :disabled="!isRightPhone || computeTime>0"
+               :class="{right_phone_number: isRightPhone}" @click="sendCode"
+            >{{computeTime>0 ? `已发送（${computeTime}s）` : `获取验证码`}}</button>
+          </div>
+        </div>
+        <div style="color: deeppink" class="tishi" v-if="isRightPhone">该手机号码还没有注册</div>
+        <div class="btnRegister">
+          <span class="register">遇到问题</span>
+          <span class="forgetPwd">使用密码验证登录</span>
+        </div>
+      </div>
+    </div>
     <div class="btnWarp" >
       <div class="w-button">
         <i class="iconfont icon-zhikeshuma-" v-show="!isIDLogin"></i>
-        <span @click="">{{isIDLogin?"登陆":"手机号码登录"}}</span>
+        <span @click="handleIphoneLogin">{{isIDLogin?"登陆":"手机号码登录"}}</span>
       </div>
       <div class="w-button login">
         <i class="iconfont icon-youxiang" v-show="!isIDLogin"></i>
-        <span @click="isIDLogin=!isIDLogin" v-if="!isIDLogin">邮箱帐号登录</span>
-        <span @click="isIDLogin=!isIDLogin" v-if="isIDLogin">其他方式登陆</span>
+        <span @click="loginWay">{{isIDLogin?'其他方式登陆':'邮箱帐号登录'}}</span>
       </div>
-      <div class="btn" v-show="!isIDLogin">
-        <span>手机号快捷注册</span>
+      <div class="btn" v-show="!isIDLogin&&isIphoneLogin">
+        <span>{{isIphoneLogin?'注册账号':'手机号快捷注册'}}</span>
         <i class="iconfont icon-jiantou"></i>
       </div>
     </div>
-    <div v-show="!isIDLogin" class="thirdWrap">
+    <div v-show="!isIDLogin&&!isIphoneLogin" class="thirdWrap">
       <div class="itemWrap">
         <span class="item">
           <i class="iconfont icon-weixin1"></i>
@@ -59,14 +79,67 @@
 </template>
 
 <script>
+  import { Toast, MessageBox } from 'mint-ui'
+  import {reqSendCode,reqLogin,reqPwdLogin} from '../../api'
+
   export default {
     name: "PersonalCenter",
     data(){
       return{
         isIDLogin:false,
-        isIphoneLogin:false
+        isIphoneLogin:false,
+        phone:'',
+        authCode:'',
+        computeTime:0
       }
     },
+    computed : {
+      //判断phone是否是一个正确的手机号
+      isRightPhone(){
+        return /^1\d{10}$/.test(this.phone)
+      }
+    },
+
+    methods:{
+      handleIphoneLogin(){
+        this.isIDLogin = false
+        this.isIphoneLogin = true
+      },
+
+      loginWay(){
+        this.isIDLogin = true
+        this.isIphoneLogin = false
+      },
+
+      // 请求发送短信验证码
+      async sendCode(){
+        //开启倒计时
+        this.computeTime = 30
+        //循环定时器
+        const intervalId = setInterval(() => {
+          //时间减1
+          this.computeTime--
+          //一旦时间到了0，停止计时
+          if(this.computeTime===0){
+            this.computeTime = 0
+            clearInterval(intervalId)
+          }
+        },1000)
+
+        //发送ajax
+        const result = await reqSendCode(this.phone)
+        if(result.code === 0){  //发送验证码成功
+          // alert('发送验证码成功')
+          Toast('发送验证码成功')
+        } else { // 失败了
+          // 停止定时器
+          this.computeTime = 0
+          // alert('发送验证码失败')
+          MessageBox.alert('发送验证码失败')
+        }
+
+      }
+    }
   }
 </script>
 
@@ -159,6 +232,8 @@
   .registerWrap
     /*width 100%*/
     padding 0 .38rem
+    .importPwd
+      position relative
     >div
       /*width 100%*/
       /*padding 0 .38rem*/
@@ -167,6 +242,7 @@
       border-bottom solid 1px gray
       margin-bottom 0.2rem
       input
+        box-shadow: none;
         outline: none
         width 7rem
         height 1rem
@@ -187,4 +263,28 @@
 .paddingTop
   padding-top .53333rem!important
 
+.pcbtn
+  position: absolute;
+  right: 0.22rem;
+  top: 0.3rem;
+  z-index: 100;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top
+
+.m-cnt .pcbtn a:active {
+    background-color: #f4f4f4;
+  }
+
+button
+  display: block;
+  width: 2.3rem;
+  height: 0.75rem;
+  text-align: center;
+  font-size .3rem
+  color: #333;
+  background: #fff;
+  line-height: 0.75rem;
+  border: 1px solid #7F7F7F;
+  border-radius: 4px;
 </style>

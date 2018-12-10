@@ -8,5 +8,8 @@ export default {
   homeList:[],
   homeLbt:[],
   discoverList:[],
-  recommendList:[]
+  recommendList:[],
+  hotList:[],
+  searchResult:[],
+  searchShop:[]
 }
